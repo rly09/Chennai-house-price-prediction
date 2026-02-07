@@ -5,7 +5,7 @@ class ApiService {
   // Use 10.0.2.2 for Android Emulator, 127.0.0.1 for iOS/Windows/Web
   static String get baseUrl {
     // Replace with your machine's IP address if running on a real device
-    return 'http://10.3.68.223:5000';
+    return 'https://chennai-house-price-api.onrender.com';
   }
 
   Future<List<String>> fetchLocations() async {
