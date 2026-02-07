@@ -1,0 +1,1927 @@
+,price,area,status,bhk,bathroom,location
+0,82.0,960,Ready to move,2,2.0,Adambakam
+1,77.8,890,Ready to move,2,2.0,Adambakam
+2,82.0,1000,Ready to move,2,2.0,Adambakam
+3,87.0,1015,Under Construction,2,2.0,Adambakam
+4,78.0,954,Ready to move,2,2.0,Adambakam
+5,42.0,509,Ready to move,1,1.0,Adambakam
+6,261.0,1548,Ready to move,3,2.0,Adyar
+7,278.0,1652,Ready to move,3,2.0,Adyar
+8,274.0,1627,Ready to move,3,2.0,Adyar
+9,210.0,1381,Under Construction,3,3.0,Adyar
+10,325.0,2411,Ready to move,4,4.0,Adyar
+11,520.0,4000,Ready to move,4,3.0,Adyar
+12,230.0,1755,Under Construction,3,3.0,Adyar
+13,321.0,2380,Ready to move,3,3.0,Adyar
+14,75.0,1655,Ready to move,3,3.0,Agaramthen
+15,100.0,2100,Ready to move,3,3.0,Agaramthen
+16,95.0,2000,Ready to move,3,3.0,Agaramthen
+17,90.0,1900,Ready to move,3,3.0,Agaramthen
+18,85.0,1800,Ready to move,3,3.0,Agaramthen
+19,80.0,1700,Ready to move,3,3.0,Agaramthen
+20,63.62,823,Under Construction,2,2.0,Alandur
+21,63.62,823,Under Construction,2,2.0,Alandur
+22,64.9,823,Under Construction,2,2.0,Alandur
+23,517.0,2348,Ready to move,3,2.0,Alwarpet
+24,545.0,2476,Ready to move,3,2.0,Alwarpet
+25,612.0,2781,Ready to move,4,2.0,Alwarpet
+26,597.0,2713,Ready to move,4,2.0,Alwarpet
+27,481.0,2291,Ready to move,3,3.0,Alwarpet
+28,417.0,1989,Ready to move,3,3.0,Alwarpet
+29,903.0,4302,Ready to move,4,2.0,Alwarpet
+30,903.0,4302,Ready to move,4,2.0,Alwarpet
+31,416.0,2315,Under Construction,3,3.0,Alwarpet
+32,323.0,1850,Under Construction,3,3.0,Alwarpet
+33,49.0,1028,Ready to move,2,2.0,Ambattur
+34,67.0,1195,Ready to move,3,2.0,Ambattur
+35,33.0,601,Ready to move,1,2.0,Ambattur
+36,79.0,1440,Under Construction,3,3.0,Ambattur
+37,40.44,834,Under Construction,2,2.0,Ambattur
+38,59.17,1220,Under Construction,2,2.0,Ambattur
+39,59.17,1220,Under Construction,2,2.0,Ambattur
+40,37.34,770,Under Construction,2,2.0,Ambattur
+41,37.35,770,Under Construction,2,2.0,Ambattur
+42,40.44,834,Under Construction,2,2.0,Ambattur
+43,42.19,870,Under Construction,2,2.0,Ambattur
+44,37.34,770,Under Construction,2,2.0,Ambattur
+45,41.12,848,Under Construction,2,2.0,Ambattur
+46,37.34,770,Under Construction,2,2.0,Ambattur
+47,80.0,1527,Ready to move,3,2.0,Ambattur
+48,53.0,1012,Ready to move,2,2.0,Ambattur
+49,42.19,870,Under Construction,2,2.0,Ambattur
+50,37.34,770,Under Construction,2,2.0,Ambattur
+51,42.19,870,Under Construction,2,2.0,Ambattur
+52,37.34,770,Under Construction,2,2.0,Ambattur
+53,42.19,870,Under Construction,2,2.0,Ambattur
+54,37.34,770,Under Construction,2,2.0,Ambattur
+55,40.44,834,Under Construction,2,2.0,Ambattur
+56,41.12,848,Under Construction,2,2.0,Ambattur
+57,42.19,870,Under Construction,2,2.0,Ambattur
+58,37.34,770,Under Construction,2,2.0,Ambattur
+59,40.44,834,Under Construction,2,2.0,Ambattur
+60,42.19,870,Under Construction,2,2.0,Ambattur INDUSTRIAL ESTATE
+61,42.19,870,Under Construction,2,2.0,Ambattur INDUSTRIAL ESTATE
+62,40.44,834,Under Construction,2,2.0,Ambattur INDUSTRIAL ESTATE
+63,41.12,848,Under Construction,2,2.0,Ambattur INDUSTRIAL ESTATE
+64,42.19,870,Under Construction,2,2.0,Ambattur INDUSTRIAL ESTATE
+65,40.44,834,Under Construction,2,2.0,Ambattur INDUSTRIAL ESTATE
+66,41.12,848,Under Construction,2,2.0,Ambattur INDUSTRIAL ESTATE
+67,40.44,834,Under Construction,2,2.0,Ambattur INDUSTRIAL ESTATE
+68,225.0,1950,Ready to move,3,3.0,Aminjikarai
+69,165.0,1344,Ready to move,2,2.0,Aminjikarai
+70,165.0,1344,Ready to move,2,2.0,Aminjikarai
+71,23.13,503,Under Construction,1,2.0,Anakaputhur
+72,41.63,905,Under Construction,3,2.0,Anakaputhur
+73,32.75,712,Under Construction,2,2.0,Anakaputhur
+74,32.2,700,Under Construction,2,2.0,Anakaputhur
+75,20.56,447,Under Construction,1,2.0,Anakaputhur
+76,240.0,1500,Ready to move,3,3.0,Anna Nagar
+77,224.0,1450,Under Construction,3,2.0,Anna Nagar
+78,240.0,1500,Under Construction,3,2.0,Anna Nagar
+79,158.0,1025,Under Construction,2,2.0,Anna Nagar
+80,242.0,1565,Ready to move,3,2.0,Anna Nagar
+81,240.0,1500,Under Construction,3,2.0,Anna Nagar
+82,240.0,1500,Under Construction,3,2.0,Anna Nagar
+83,240.0,1500,Under Construction,3,2.0,Anna Nagar
+84,191.0,1235,Under Construction,3,2.0,Anna Nagar
+85,221.0,1250,Under Construction,3,2.0,Anna Nagar
+86,266.0,1540,Under Construction,3,2.0,Anna Nagar
+87,264.0,1500,Under Construction,3,3.0,Anna Nagar
+88,220.0,1500,Ready to move,3,2.0,Anna Nagar
+89,230.0,1590,Ready to move,3,3.0,Anna Nagar
+90,320.0,2130,Ready to move,3,3.0,Anna Nagar
+91,205.0,1283,Ready to move,3,3.0,Anna Nagar
+92,492.0,2889,Ready to move,3,3.0,Anna Nagar East
+93,150.0,1350,Ready to move,3,3.0,Anna Nagar East
+94,60.0,1386,Ready to move,3,3.0,Avadi
+95,58.43,1113,Under Construction,2,2.0,Ayanambakkam
+96,54.96,1047,Under Construction,2,2.0,Ayanambakkam
+97,58.43,1113,Under Construction,2,2.0,Ayanambakkam
+98,54.81,1044,Under Construction,2,2.0,Ayanambakkam
+99,54.96,1047,Under Construction,2,2.0,Ayanambakkam
+100,58.43,1113,Under Construction,2,2.0,Ayanambakkam
+101,54.81,1044,Under Construction,2,2.0,Ayanambakkam
+102,54.96,1047,Under Construction,2,2.0,Ayanambakkam
+103,54.81,1044,Under Construction,2,2.0,Ayanambakkam
+104,50.76,967,Under Construction,2,2.0,Ayanambakkam
+105,50.76,967,Under Construction,2,2.0,Ayanambakkam
+106,58.9,1122,Under Construction,2,2.0,Ayanambakkam
+107,58.9,1122,Under Construction,2,2.0,Ayanambakkam
+108,57.01,1086,Under Construction,2,2.0,Ayanambakkam
+109,57.01,1086,Under Construction,2,2.0,Ayanambakkam
+110,110.0,1310,Ready to move,2,2.0,Ayanavaram
+111,52.51,938,Under Construction,2,2.0,Ayapakkam
+112,67.07,1198,Under Construction,3,2.0,Ayapakkam
+113,49.77,905,Under Construction,2,2.0,Ayapakkam
+114,49.77,905,Under Construction,2,2.0,Ayapakkam
+115,67.65,1230,Under Construction,3,2.0,Ayapakkam
+116,334.0,1860,Under Construction,3,3.0,Besant Nagar
+117,295.0,1641,Under Construction,3,3.0,Besant Nagar
+118,160.0,2300,Ready to move,4,4.0,Chetpet
+119,130.0,1330,Ready to move,2,3.0,Chetpet
+120,40.0,655,Ready to move,2,2.0,Chitlapakkam
+121,76.5,1275,Ready to move,3,3.0,Chitlapakkam
+122,69.96,1166,Ready to move,3,3.0,Chitlapakkam
+123,60.0,1000,Ready to move,2,2.0,Chitlapakkam
+124,42.0,700,Ready to move,1,1.0,Chitlapakkam
+125,49.74,829,Ready to move,2,2.0,Chitlapakkam
+126,50.76,1045,Ready to move,2,2.0,Chromepet
+127,33.77,866,Under Construction,2,2.0,Chromepet
+128,37.4,770,Ready to move,2,2.0,Chromepet
+129,30.99,638,Ready to move,2,2.0,Chromepet
+130,59.22,1245,Ready to move,3,2.0,Chromepet
+131,43.47,895,Ready to move,2,2.0,Chromepet
+132,61.55,1294,Ready to move,3,2.0,Chromepet
+133,58.32,1226,Ready to move,3,2.0,Chromepet
+134,49.79,1025,Ready to move,2,2.0,Chromepet
+135,46.83,964,Ready to move,2,2.0,Chromepet
+136,58.84,1237,Ready to move,3,2.0,Chromepet
+137,69.92,1470,Ready to move,3,3.0,Chromepet
+138,44.64,919,Ready to move,2,2.0,Chromepet
+139,63.88,1343,Ready to move,3,2.0,Chromepet
+140,60.74,1277,Ready to move,3,2.0,Chromepet
+141,44.59,918,Ready to move,2,2.0,Chromepet
+142,45.9,945,Ready to move,2,2.0,Chromepet
+143,31.38,646,Ready to move,2,2.0,Chromepet
+144,59.98,1261,Ready to move,3,3.0,Chromepet
+145,63.22,1329,Ready to move,3,3.0,Chromepet
+146,56.98,1198,Ready to move,3,3.0,Chromepet
+147,47.65,981,Ready to move,2,2.0,Chromepet
+148,38.61,990,Under Construction,3,2.0,Chromepet
+149,35.45,909,Under Construction,3,2.0,Chromepet
+150,35.52,911,Under Construction,3,2.0,Chromepet
+151,25.15,645,Under Construction,2,2.0,Chromepet
+152,35.49,910,Under Construction,3,2.0,Chromepet
+153,24.92,639,Under Construction,2,2.0,Chromepet
+154,35.13,901,Under Construction,2,2.0,Chromepet
+155,24.84,637,Under Construction,2,2.0,Chromepet
+156,37.86,971,Under Construction,3,2.0,Chromepet
+157,27.65,709,Under Construction,2,2.0,Chromepet
+158,25.03,642,Under Construction,2,2.0,Chromepet
+159,35.33,906,Under Construction,3,2.0,Chromepet
+160,24.57,630,Under Construction,2,2.0,Chromepet
+161,24.53,629,Under Construction,2,2.0,Chromepet
+162,24.49,628,Under Construction,2,2.0,Chromepet
+163,37.63,965,Under Construction,3,2.0,Chromepet
+164,24.68,633,Under Construction,2,1.0,Chromepet
+165,24.25,622,Under Construction,2,2.0,Chromepet
+166,24.41,626,Under Construction,2,2.0,Chromepet
+167,34.2,877,Under Construction,2,2.0,Chromepet
+168,24.02,616,Under Construction,2,2.0,Chromepet
+169,34.32,880,Under Construction,2,2.0,Chromepet
+170,34.28,879,Under Construction,2,2.0,Chromepet
+171,30.0,690,Ready to move,2,2.0,Chromepet
+172,82.0,1450,Ready to move,2,2.0,Chromepet
+173,110.0,1943,Ready to move,3,3.0,Chromepet
+174,95.0,1783,Ready to move,3,3.0,Chromepet
+175,60.02,1225,Ready to move,3,3.0,Chromepet
+176,53.6,1094,Ready to move,3,3.0,Chromepet
+177,44.59,910,Ready to move,2,2.0,Chromepet
+178,40.18,820,Ready to move,2,2.0,Chromepet
+179,24.47,505,Ready to move,1,1.0,Chromepet
+180,81.43,1404,Ready to move,3,3.0,Chromepet
+181,72.96,1258,Ready to move,3,3.0,Chromepet
+182,59.15,1183,Ready to move,3,3.0,Chromepet
+183,57.76,996,Ready to move,2,2.0,Chromepet
+184,47.15,943,Ready to move,2,2.0,Chromepet
+185,52.2,900,Ready to move,2,2.0,Chromepet
+186,43.05,861,Ready to move,2,2.0,Chromepet
+187,25.0,500,Ready to move,1,1.0,Chromepet
+188,78.0,1300,Ready to move,3,3.0,Chromepet
+189,68.58,1143,Ready to move,3,3.0,Chromepet
+190,58.14,969,Ready to move,2,2.0,Chromepet
+191,47.1,785,Ready to move,2,2.0,Chromepet
+192,50.0,1050,Ready to move,2,2.0,Chromepet
+193,45.79,669,Ready to move,2,2.0,East Tambaram
+194,71.28,1004,Under Construction,2,2.0,East Tambaram
+195,72.42,1020,Under Construction,2,2.0,East Tambaram
+196,94.0,1324,Under Construction,3,2.0,East Tambaram
+197,86.9,1224,Under Construction,3,2.0,East Tambaram
+198,77.81,1096,Under Construction,2,2.0,East Tambaram
+199,94.78,1335,Under Construction,3,2.0,East Tambaram
+200,73.48,1035,Under Construction,2,2.0,East Tambaram
+201,80.09,1045,Under Construction,2,2.0,East Tambaram
+202,47.19,640,Under Construction,1,2.0,East Tambaram
+203,82.21,1075,Under Construction,2,2.0,East Tambaram
+204,69.1,890,Under Construction,2,2.0,East Tambaram
+205,85.05,1115,Under Construction,2,2.0,East Tambaram
+206,74.42,965,Under Construction,2,2.0,East Tambaram
+207,76.9,1000,Under Construction,2,2.0,East Tambaram
+208,54.52,806,Ready to move,2,2.0,East Tambaram
+209,49.77,734,Ready to move,2,2.0,East Tambaram
+210,59.4,882,Ready to move,2,2.0,East Tambaram
+211,87.27,1106,Under Construction,3,2.0,East Tambaram
+212,105.0,1360,Under Construction,4,2.0,East Tambaram
+213,71.68,893,Under Construction,2,2.0,East Tambaram
+214,70.44,876,Under Construction,2,2.0,East Tambaram
+215,79.72,1000,Under Construction,2,2.0,East Tambaram
+216,75.04,972,Under Construction,2,2.0,East Tambaram
+217,57.35,730,Under Construction,2,2.0,East Tambaram
+218,63.27,811,Under Construction,2,2.0,East Tambaram
+219,93.27,1171,Under Construction,2,2.0,East Tambaram
+220,58.82,750,Under Construction,2,2.0,East Tambaram
+221,113.0,1668,Under Construction,3,2.0,East Tambaram
+222,79.69,1172,Under Construction,2,2.0,East Tambaram
+223,99.07,1457,Under Construction,3,2.0,East Tambaram
+224,83.09,1222,Under Construction,2,2.0,East Tambaram
+225,236.0,1657,Ready to move,3,3.0,Egmore
+226,240.0,1515,Under Construction,3,2.0,Egmore
+227,450.0,2512,Under Construction,3,2.0,Egmore
+228,263.0,1662,Under Construction,3,2.0,Egmore
+229,329.0,1760,Under Construction,3,2.0,Egmore
+230,39.0,750,Ready to move,2,2.0,Elandanur
+231,39.0,750,Ready to move,2,2.0,Elandanur
+232,34.0,675,Ready to move,2,2.0,Elandanur
+233,34.0,675,Ready to move,2,2.0,Elandanur
+234,34.0,675,Ready to move,2,2.0,Elandanur
+235,67.87,1305,Under Construction,3,2.0,Gerugambakkam
+236,76.2,1480,Under Construction,3,2.0,Gerugambakkam
+237,53.07,1005,Under Construction,2,2.0,Gerugambakkam
+238,56.64,1069,Under Construction,2,2.0,Gerugambakkam
+239,45.0,950,Under Construction,2,2.0,Gerugambakkam
+240,37.0,730,Ready to move,2,2.0,Gerugambakkam
+241,58.58,1100,Ready to move,2,3.0,Gerugambakkam
+242,54.22,1015,Ready to move,2,2.0,Gerugambakkam
+243,44.19,878,Ready to move,2,2.0,Gerugambakkam
+244,39.73,790,Ready to move,2,2.0,Gerugambakkam
+245,37.8,790,Ready to move,2,2.0,Gerugambakkam
+246,407.0,2200,Under Construction,3,2.0,Gopalapuram
+247,308.0,1765,Under Construction,3,3.0,Gopalapuram
+248,85.25,1270,Ready to move,3,2.0,Gowrivakkam
+249,37.0,574,Ready to move,1,1.0,Gowrivakkam
+250,65.0,1002,Ready to move,2,2.0,Gowrivakkam
+251,85.0,1337,Ready to move,3,3.0,Gowrivakkam
+252,45.0,1176,Under Construction,2,2.0,Guduvancheri
+253,48.5,1100,Ready to move,2,2.0,Guduvancheri
+254,45.0,1112,Ready to move,2,2.0,Guduvancheri
+255,49.0,1100,Ready to move,2,2.0,Guduvancheri
+256,34.0,956,Ready to move,1,2.0,Guduvancheri
+257,49.0,1200,Ready to move,2,2.0,Guduvancheri
+258,49.0,1200,Ready to move,2,2.0,Guduvancheri
+259,16.0,480,Ready to move,1,1.0,Guduvancheri
+260,38.0,625,Under Construction,2,1.0,Guindy
+261,38.0,625,Under Construction,2,1.0,Guindy
+262,38.0,625,Under Construction,2,1.0,Guindy
+263,38.0,625,Under Construction,2,1.0,Guindy
+264,38.0,625,Under Construction,2,1.0,Guindy
+265,38.0,625,Under Construction,2,1.0,Guindy
+266,260.0,2000,Under Construction,3,3.0,Guindy
+267,260.0,2000,Under Construction,3,3.0,Guindy
+268,118.0,1740,Ready to move,3,2.0,Iyappanthangal
+269,111.0,1645,Ready to move,3,2.0,Iyappanthangal
+270,121.0,1790,Ready to move,3,2.0,Iyappanthangal
+271,119.0,1760,Ready to move,3,2.0,Iyappanthangal
+272,115.0,1700,Ready to move,3,3.0,Iyappanthangal
+273,117.0,1730,Ready to move,3,2.0,Iyappanthangal
+274,130.0,1800,Ready to move,3,2.0,Iyappanthangal
+275,139.0,1938,Ready to move,3,2.0,Iyappanthangal
+276,143.0,1990,Ready to move,3,2.0,Iyappanthangal
+277,131.0,1825,Ready to move,3,2.0,Iyappanthangal
+278,46.06,940,Ready to move,2,2.0,Iyyappanthangal
+279,50.22,1025,Ready to move,2,2.0,Iyyappanthangal
+280,43.61,890,Ready to move,2,2.0,Iyyappanthangal
+281,39.93,815,Ready to move,2,2.0,Iyyappanthangal
+282,50.47,1030,Ready to move,2,2.0,Iyyappanthangal
+283,50.47,1030,Ready to move,2,2.0,Iyyappanthangal
+284,42.23,862,Ready to move,2,2.0,Iyyappanthangal
+285,71.55,1376,Under Construction,3,3.0,Iyyappanthangal
+286,53.0,942,Ready to move,2,2.0,Iyyappanthangal
+287,53.0,942,Ready to move,2,2.0,Iyyappanthangal
+288,53.0,942,Ready to move,2,2.0,Iyyappanthangal
+289,53.0,942,Ready to move,2,2.0,Iyyappanthangal
+290,53.0,942,Ready to move,2,2.0,Iyyappanthangal
+291,53.0,942,Ready to move,2,2.0,Iyyappanthangal
+292,53.0,942,Ready to move,2,2.0,Iyyappanthangal
+293,53.0,942,Ready to move,2,2.0,Iyyappanthangal
+294,53.0,942,Ready to move,2,2.0,Iyyappanthangal
+295,125.0,2350,Ready to move,4,4.0,Iyyappanthangal
+296,125.0,2350,Ready to move,4,4.0,Iyyappanthangal
+297,125.0,2350,Ready to move,4,4.0,Iyyappanthangal
+298,125.0,2350,Ready to move,4,4.0,Iyyappanthangal
+299,53.0,942,Ready to move,2,2.0,Iyyappanthangal
+300,53.0,942,Ready to move,2,2.0,Iyyappanthangal
+301,53.0,942,Ready to move,2,2.0,Iyyappanthangal
+302,53.0,942,Ready to move,2,2.0,Iyyappanthangal
+303,53.0,942,Ready to move,2,2.0,Iyyappanthangal
+304,53.0,942,Ready to move,2,2.0,Iyyappanthangal
+305,53.0,942,Ready to move,2,2.0,Iyyappanthangal
+306,53.0,942,Ready to move,2,2.0,Iyyappanthangal
+307,53.0,942,Ready to move,2,2.0,Iyyappanthangal
+308,132.0,1266,Ready to move,3,3.0,Jafferkhanpet
+309,330.0,3670,Ready to move,3,2.0,Kanathur Reddikuppam
+310,440.0,4896,Ready to move,4,2.0,Kanathur Reddikuppam
+311,292.0,5037,Ready to move,5,2.0,Kanathur Reddikuppam
+312,295.0,5093,Ready to move,5,2.0,Kanathur Reddikuppam
+313,40.7,760,Under Construction,2,2.0,Kandigai
+314,41.7,760,Under Construction,2,2.0,Kandigai
+315,40.75,750,Under Construction,2,2.0,Kandigai
+316,84.88,1307,Ready to move,3,2.0,Karapakkam
+317,33.77,538,Ready to move,1,2.0,Karapakkam
+318,85.34,1314,Ready to move,3,2.0,Karapakkam
+319,66.7,1027,Ready to move,2,2.0,Karapakkam
+320,88.2,1358,Ready to move,3,2.0,Karapakkam
+321,66.5,1024,Ready to move,2,2.0,Karapakkam
+322,174.0,2686,Ready to move,4,2.0,Karapakkam
+323,101.0,1561,Ready to move,3,2.0,Karapakkam
+324,84.17,1296,Ready to move,3,2.0,Karapakkam
+325,101.0,1566,Ready to move,3,2.0,Karapakkam
+326,118.0,1829,Ready to move,3,2.0,Karapakkam
+327,101.0,1564,Ready to move,3,2.0,Karapakkam
+328,87.55,1348,Ready to move,3,2.0,Karapakkam
+329,126.0,1944,Ready to move,3,2.0,Karapakkam
+330,171.0,2640,Ready to move,4,2.0,Karapakkam
+331,34.46,549,Ready to move,1,2.0,Karapakkam
+332,170.0,2630,Ready to move,4,2.0,Karapakkam
+333,169.0,2616,Ready to move,4,2.0,Karapakkam
+334,103.0,1599,Ready to move,3,2.0,Karapakkam
+335,68.0,1024,Ready to move,2,2.0,Karapakkam
+336,170.0,2616,Ready to move,4,3.0,Karapakkam
+337,68.0,1024,Ready to move,2,2.0,Karapakkam
+338,95.0,1564,Ready to move,2,3.0,Karapakkam
+339,70.0,1024,Ready to move,2,2.0,Karapakkam
+340,24.0,650,Ready to move,2,2.0,Kattankulathur
+341,25.0,650,Ready to move,2,2.0,Kattankulathur
+342,28.0,750,Under Construction,2,2.0,Kattankulathur
+343,27.5,800,Ready to move,2,1.0,Kattankulathur
+344,25.5,700,Ready to move,1,1.0,Kattankulathur
+345,28.5,800,Under Construction,2,2.0,Kattankulathur
+346,58.0,1318,Ready to move,3,3.0,Kattupakkam
+347,39.5,930,Ready to move,2,2.0,Kattupakkam
+348,63.5,1312,Ready to move,2,2.0,Kattupakkam
+349,69.0,1419,Ready to move,3,3.0,Kattupakkam
+350,75.0,1700,Ready to move,4,3.0,Kattupakkam
+351,46.97,854,Ready to move,2,2.0,Keelkattalai
+352,52.63,957,Ready to move,2,2.0,Keelkattalai
+353,51.7,940,Ready to move,2,2.0,Keelkattalai
+354,48.07,874,Ready to move,2,2.0,Keelkattalai
+355,47.08,856,Ready to move,2,2.0,Keelkattalai
+356,53.79,978,Ready to move,2,2.0,Keelkattalai
+357,54.78,996,Ready to move,2,2.0,Keelkattalai
+358,33.05,1002,Ready to move,2,2.0,Kelambakkam
+359,40.84,1238,Ready to move,3,2.0,Kelambakkam
+360,41.0,1243,Ready to move,2,2.0,Kelambakkam
+361,40.94,1241,Ready to move,2,2.0,Kelambakkam
+362,32.99,1000,Ready to move,2,2.0,Kelambakkam
+363,22.96,696,Ready to move,1,2.0,Kelambakkam
+364,36.98,1121,Ready to move,2,2.0,Kelambakkam
+365,20.88,633,Ready to move,1,2.0,Kelambakkam
+366,41.27,1251,Ready to move,3,2.0,Kelambakkam
+367,36.75,1114,Ready to move,2,2.0,Kelambakkam
+368,40.31,1222,Ready to move,3,2.0,Kelambakkam
+369,36.09,1094,Ready to move,2,2.0,Kelambakkam
+370,44.89,1361,Ready to move,3,3.0,Kelambakkam
+371,32.89,997,Ready to move,2,2.0,Kelambakkam
+372,32.52,986,Ready to move,2,2.0,Kelambakkam
+373,30.21,916,Ready to move,2,2.0,Kelambakkam
+374,26.75,811,Ready to move,1,2.0,Kelambakkam
+375,44.63,1353,Ready to move,3,2.0,Kelambakkam
+376,32.26,978,Ready to move,2,2.0,Kelambakkam
+377,43.77,1327,Ready to move,3,2.0,Kelambakkam
+378,32.16,975,Ready to move,2,2.0,Kelambakkam
+379,25.79,782,Ready to move,1,2.0,Kelambakkam
+380,32.39,982,Ready to move,2,2.0,Kelambakkam
+381,32.33,980,Ready to move,2,2.0,Kelambakkam
+382,25.69,779,Ready to move,1,2.0,Kelambakkam
+383,34.4,1043,Ready to move,2,2.0,Kelambakkam
+384,34.73,1053,Ready to move,2,2.0,Kelambakkam
+385,32.03,971,Ready to move,2,2.0,Kelambakkam
+386,31.83,965,Ready to move,2,2.0,Kelambakkam
+387,26.65,808,Ready to move,1,2.0,Kelambakkam
+388,31.37,951,Ready to move,2,2.0,Kelambakkam
+389,29.19,885,Ready to move,2,2.0,Kelambakkam
+390,24.84,753,Ready to move,1,1.0,Kelambakkam
+391,42.22,1280,Ready to move,3,2.0,Kelambakkam
+392,33.31,1010,Ready to move,2,2.0,Kelambakkam
+393,31.14,944,Ready to move,2,2.0,Kelambakkam
+394,26.75,811,Ready to move,2,2.0,Kelambakkam
+395,33.28,1009,Ready to move,2,2.0,Kelambakkam
+396,31.07,942,Ready to move,2,2.0,Kelambakkam
+397,37.08,1124,Ready to move,2,2.0,Kelambakkam
+398,31.27,948,Ready to move,2,2.0,Kelambakkam
+399,46.25,1402,Ready to move,3,2.0,Kelambakkam
+400,33.41,1013,Ready to move,2,2.0,Kelambakkam
+401,35.0,840,Ready to move,2,2.0,Kelambakkam
+402,73.0,1737,Ready to move,3,3.0,Kelambakkam
+403,41.0,1250,Ready to move,1,2.0,Kelambakkam
+404,48.0,1270,Ready to move,2,1.0,Kelambakkam
+405,43.0,1350,Ready to move,2,2.0,Kelambakkam
+406,58.0,1400,Ready to move,3,3.0,Kelambakkam
+407,53.0,1550,Ready to move,2,2.0,Kelambakkam
+408,52.0,1350,Ready to move,2,2.0,Kelambakkam
+409,46.0,1262,Under Construction,3,2.0,Kelambakkam
+410,35.0,994,Under Construction,2,2.0,Kelambakkam
+411,36.21,1050,Under Construction,2,2.0,Kelambakkam
+412,34.28,994,Under Construction,2,2.0,Kelambakkam
+413,43.52,1262,Under Construction,3,3.0,Kelambakkam
+414,46.04,1335,Under Construction,3,2.0,Kelambakkam
+415,75.0,1791,Ready to move,3,3.0,Kelambakkam
+416,427.0,3700,Under Construction,4,4.0,Kilpauk
+417,185.0,1490,Ready to move,3,3.0,Kilpauk
+418,460.0,4000,Ready to move,4,4.0,Kilpauk
+419,462.0,3850,Ready to move,5,2.0,Kilpauk
+420,267.0,2230,Ready to move,4,2.0,Kilpauk
+421,345.0,2880,Ready to move,4,2.0,Kilpauk
+422,213.0,1775,Ready to move,3,2.0,Kilpauk
+423,115.0,1238,Ready to move,3,3.0,Kodambakkam
+424,169.0,1610,Under Construction,3,2.0,Kodambakkam
+425,100.0,956,Under Construction,2,2.0,Kodambakkam
+426,145.0,1000,Ready to move,2,1.0,Kodungaiyur West
+427,90.46,1508,Ready to move,3,2.0,Kolapakkam
+428,104.0,1745,Ready to move,3,2.0,Kolapakkam
+429,104.0,1745,Ready to move,3,2.0,Kolapakkam
+430,131.0,2185,Ready to move,4,2.0,Kolapakkam
+431,92.98,1550,Ready to move,3,2.0,Kolapakkam
+432,91.18,1520,Ready to move,2,2.0,Kolapakkam
+433,181.0,3024,Ready to move,5,2.0,Kolapakkam
+434,181.0,3024,Ready to move,5,2.0,Kolapakkam
+435,97.0,1617,Ready to move,2,2.0,Kolapakkam
+436,97.0,1617,Ready to move,2,2.0,Kolapakkam
+437,80.26,1338,Ready to move,2,2.0,Kolapakkam
+438,80.26,1338,Ready to move,2,2.0,Kolapakkam
+439,91.18,1520,Ready to move,2,2.0,Kolapakkam
+440,181.0,3024,Ready to move,5,2.0,Kolapakkam
+441,181.0,3024,Ready to move,5,2.0,Kolapakkam
+442,97.0,1617,Ready to move,2,2.0,Kolapakkam
+443,97.0,1617,Ready to move,2,2.0,Kolapakkam
+444,80.26,1338,Ready to move,2,2.0,Kolapakkam
+445,80.26,1338,Ready to move,2,2.0,Kolapakkam
+446,50.22,1025,Ready to move,3,3.0,Kolapakkam
+447,50.22,1025,Ready to move,3,3.0,Kolapakkam
+448,40.42,825,Ready to move,2,2.0,Kolapakkam
+449,42.14,860,Ready to move,2,2.0,Kolapakkam
+450,82.0,1750,Ready to move,3,3.0,Kolapakkam
+451,70.0,1148,Ready to move,2,2.0,Kolapakkam
+452,54.0,893,Ready to move,2,2.0,Kolathur
+453,160.0,2700,Ready to move,4,3.0,Kolathur
+454,55.21,986,Ready to move,2,2.0,Kolathur
+455,55.21,986,Ready to move,2,2.0,Kolathur
+456,140.0,2200,Ready to move,6,4.0,Kolathur
+457,91.58,1409,Ready to move,3,2.0,Kolathur
+458,63.89,983,Ready to move,2,2.0,Kolathur
+459,68.31,1051,Ready to move,2,2.0,Kolathur
+460,66.36,1021,Ready to move,2,2.0,Kolathur
+461,64.61,994,Ready to move,2,2.0,Kolathur
+462,65.65,1010,Ready to move,2,2.0,Kolathur
+463,82.22,1265,Ready to move,3,2.0,Kolathur
+464,69.48,1069,Ready to move,2,2.0,Kolathur
+465,62.59,963,Ready to move,2,2.0,Kolathur
+466,95.48,1469,Ready to move,3,2.0,Kolathur
+467,63.96,984,Ready to move,2,2.0,Kolathur
+468,68.5,1080,Ready to move,2,3.0,Kolathur
+469,68.5,1080,Ready to move,2,3.0,Kolathur
+470,68.5,1080,Ready to move,2,3.0,Kolathur
+471,68.5,1080,Ready to move,2,3.0,Kolathur
+472,68.5,1080,Ready to move,2,3.0,Kolathur
+473,68.5,1080,Ready to move,2,3.0,Kolathur
+474,68.5,1080,Ready to move,2,3.0,Kolathur
+475,68.5,1080,Ready to move,2,3.0,Kolathur
+476,68.5,1080,Ready to move,2,3.0,Kolathur
+477,68.5,1080,Ready to move,2,3.0,Kolathur
+478,68.5,1080,Ready to move,2,3.0,Kolathur
+479,68.5,1080,Ready to move,2,3.0,Kolathur
+480,71.0,1100,Under Construction,3,3.0,Kolathur
+481,72.0,1100,Under Construction,3,3.0,Kolathur
+482,150.0,1750,Ready to move,3,2.0,Korattur
+483,36.36,627,Ready to move,1,1.0,Korattur
+484,55.21,952,Ready to move,2,2.0,Korattur
+485,165.0,2210,Ready to move,4,3.0,Kotivakkam
+486,260.0,3485,Ready to move,5,5.0,Kotivakkam
+487,279.0,1571,Under Construction,3,2.0,Kotturpuram
+488,221.0,1245,Under Construction,2,2.0,Kotturpuram
+489,348.0,1976,Under Construction,3,2.0,Kotturpuram
+490,325.0,1842,Under Construction,3,2.0,Kotturpuram
+491,348.0,1979,Under Construction,3,2.0,Kotturpuram
+492,233.0,1313,Under Construction,2,2.0,Kotturpuram
+493,342.0,1951,Under Construction,3,2.0,Kotturpuram
+494,334.0,1894,Under Construction,3,2.0,Kotturpuram
+495,219.0,1233,Under Construction,2,2.0,Kotturpuram
+496,332.0,1877,Under Construction,3,2.0,Kotturpuram
+497,331.0,1874,Under Construction,3,2.0,Kotturpuram
+498,350.0,1987,Under Construction,3,2.0,Kotturpuram
+499,240.0,3700,Ready to move,3,3.0,Kovalam
+500,52.9,804,Ready to move,2,2.0,Kovilambakkam
+501,52.0,780,Ready to move,2,2.0,Kovilambakkam
+502,54.05,932,Ready to move,2,2.0,Kovilambakkam
+503,51.96,896,Ready to move,2,2.0,Kovilambakkam
+504,53.0,804,Ready to move,2,2.0,Kovilambakkam
+505,54.75,1020,Ready to move,2,2.0,Kovur
+506,38.58,819,Ready to move,2,2.0,Kovur
+507,38.23,815,Ready to move,2,2.0,Kovur
+508,41.0,874,Ready to move,2,3.0,Kovur
+509,38.53,799,Ready to move,2,2.0,Kovur
+510,54.0,1000,Ready to move,2,3.0,Kovur
+511,55.0,1000,Ready to move,2,3.0,Kovur
+512,44.0,938,Ready to move,2,2.0,Kovur
+513,36.42,710,Ready to move,1,2.0,Kovur
+514,55.0,1020,Ready to move,2,2.0,Kovur
+515,46.0,914,Ready to move,2,2.0,Kovur
+516,73.0,1400,Under Construction,3,3.0,Kovur
+517,89.23,1373,Under Construction,3,2.0,Koyambedu
+518,97.93,1507,Under Construction,3,2.0,Koyambedu
+519,96.64,1487,Under Construction,3,2.0,Koyambedu
+520,76.81,1182,Under Construction,2,2.0,Koyambedu
+521,66.61,1025,Under Construction,2,2.0,Koyambedu
+522,97.09,1494,Under Construction,3,2.0,Koyambedu
+523,67.13,1033,Under Construction,2,2.0,Koyambedu
+524,108.0,1674,Under Construction,3,2.0,Koyambedu
+525,70.7,1088,Under Construction,2,2.0,Koyambedu
+526,83.51,1285,Under Construction,2,2.0,Koyambedu
+527,73.43,1130,Under Construction,2,2.0,Koyambedu
+528,90.14,1387,Under Construction,3,2.0,Koyambedu
+529,73.24,1127,Under Construction,2,2.0,Koyambedu
+530,112.0,1737,Under Construction,4,2.0,Koyambedu
+531,95.34,1467,Under Construction,3,2.0,Koyambedu
+532,73.5,1131,Under Construction,2,2.0,Koyambedu
+533,40.09,853,Under Construction,2,2.0,Kundrathur
+534,38.49,819,Under Construction,2,2.0,Kundrathur
+535,38.77,825,Under Construction,2,2.0,Kundrathur
+536,38.72,824,Under Construction,2,2.0,Kundrathur
+537,80.37,1576,Ready to move,3,2.0,Kundrathur
+538,78.89,1547,Ready to move,3,2.0,Kundrathur
+539,80.68,1582,Ready to move,3,2.0,Kundrathur
+540,70.89,1390,Ready to move,3,2.0,Kundrathur
+541,74.15,1454,Ready to move,3,2.0,Kundrathur
+542,70.94,1391,Ready to move,3,2.0,Kundrathur
+543,79.66,1562,Ready to move,3,2.0,Kundrathur
+544,37.5,845,Ready to move,2,2.0,Kundrathur
+545,46.0,800,Ready to move,2,2.0,Kundrathur
+546,29.0,576,Ready to move,1,1.0,Kuthambakkam
+547,41.0,855,Ready to move,2,2.0,Kuthambakkam
+548,74.0,1300,Ready to move,3,3.0,Madambakkam
+549,69.0,1200,Ready to move,2,2.0,Madambakkam
+550,90.0,1800,Ready to move,4,4.0,Madambakkam
+551,85.0,1683,Ready to move,3,3.0,Madambakkam
+552,80.0,1561,Ready to move,3,3.0,Madambakkam
+553,77.0,1483,Ready to move,3,3.0,Madambakkam
+554,91.2,1900,Ready to move,3,3.0,Madambakkam
+555,78.28,1631,Ready to move,3,3.0,Madambakkam
+556,71.42,1488,Ready to move,3,3.0,Madambakkam
+557,67.15,1399,Ready to move,3,3.0,Madambakkam
+558,48.81,1017,Ready to move,2,2.0,Madambakkam
+559,47.52,990,Ready to move,2,2.0,Madambakkam
+560,65.61,1238,Ready to move,3,3.0,Madambakkam
+561,61.85,1167,Ready to move,3,3.0,Madambakkam
+562,48.81,921,Ready to move,2,2.0,Madambakkam
+563,46.64,880,Ready to move,2,2.0,Madambakkam
+564,64.17,1310,Under Construction,3,2.0,Madhavaram
+565,76.47,1561,Under Construction,3,2.0,Madhavaram
+566,81.71,1668,Under Construction,3,2.0,Madhavaram
+567,51.58,1053,Under Construction,2,2.0,Madhavaram
+568,48.59,992,Under Construction,2,2.0,Madhavaram
+569,63.34,1293,Under Construction,3,2.0,Madhavaram
+570,76.47,1561,Under Construction,3,2.0,Madhavaram
+571,63.83,1303,Under Construction,3,2.0,Madhavaram
+572,57.41,1172,Under Construction,2,2.0,Madhavaram
+573,48.74,995,Under Construction,2,2.0,Madhavaram
+574,62.31,1272,Under Construction,3,2.0,Madhavaram
+575,82.0,1674,Under Construction,3,2.0,Madhavaram
+576,62.7,1280,Under Construction,3,2.0,Madhavaram
+577,74.56,1522,Under Construction,3,2.0,Madhavaram
+578,64.17,1310,Under Construction,3,2.0,Madhavaram
+579,69.66,1422,Under Construction,3,2.0,Madhavaram
+580,48.69,994,Under Construction,2,2.0,Madhavaram
+581,69.66,1422,Under Construction,3,2.0,Madhavaram
+582,48.69,994,Under Construction,2,2.0,Madhavaram
+583,48.59,992,Under Construction,2,2.0,Madhavaram
+584,63.34,1293,Under Construction,3,2.0,Madhavaram
+585,63.83,1303,Under Construction,3,2.0,Madhavaram
+586,57.41,1172,Under Construction,2,2.0,Madhavaram
+587,48.74,995,Under Construction,2,2.0,Madhavaram
+588,62.31,1272,Under Construction,3,2.0,Madhavaram
+589,62.7,1280,Under Construction,3,2.0,Madhavaram
+590,63.0,1286,Under Construction,3,2.0,Madhavaram
+591,49.43,1009,Under Construction,2,2.0,Madhavaram
+592,51.24,1046,Under Construction,2,2.0,Madhavaram
+593,51.24,1046,Under Construction,2,2.0,Madhavaram
+594,76.86,1569,Under Construction,3,2.0,Madhavaram
+595,76.86,1569,Under Construction,3,2.0,Madhavaram
+596,51.24,1046,Under Construction,2,2.0,Madhavaram
+597,51.24,1046,Under Construction,2,2.0,Madhavaram
+598,76.86,1569,Under Construction,3,2.0,Madhavaram
+599,76.86,1569,Under Construction,3,2.0,Madhavaram
+600,64.17,1310,Under Construction,3,2.0,Madhavaram
+601,64.17,1310,Under Construction,3,2.0,Madhavaram
+602,51.73,1056,Under Construction,2,2.0,Madhavaram
+603,51.73,1056,Under Construction,2,2.0,Madhavaram
+604,51.58,1053,Under Construction,2,2.0,Madhavaram
+605,51.58,1053,Under Construction,2,2.0,Madhavaram
+606,69.66,1422,Under Construction,3,2.0,Madhavaram
+607,69.66,1422,Under Construction,3,2.0,Madhavaram
+608,48.69,994,Under Construction,2,2.0,Madhavaram
+609,48.69,994,Under Construction,2,2.0,Madhavaram
+610,48.59,992,Under Construction,2,2.0,Madhavaram
+611,48.59,992,Under Construction,2,2.0,Madhavaram
+612,63.34,1293,Under Construction,3,2.0,Madhavaram
+613,63.34,1293,Under Construction,3,2.0,Madhavaram
+614,76.47,1561,Under Construction,3,2.0,Madhavaram
+615,76.47,1561,Under Construction,3,2.0,Madhavaram
+616,63.83,1303,Under Construction,3,2.0,Madhavaram
+617,63.83,1303,Under Construction,3,2.0,Madhavaram
+618,57.41,1172,Under Construction,2,2.0,Madhavaram
+619,57.41,1172,Under Construction,2,2.0,Madhavaram
+620,48.74,995,Under Construction,2,2.0,Madhavaram
+621,48.74,995,Under Construction,2,2.0,Madhavaram
+622,81.71,1668,Under Construction,3,2.0,Madhavaram
+623,81.71,1668,Under Construction,3,2.0,Madhavaram
+624,72.01,1470,Under Construction,3,2.0,Madhavaram
+625,72.01,1470,Under Construction,3,2.0,Madhavaram
+626,62.31,1272,Under Construction,3,2.0,Madhavaram
+627,62.31,1272,Under Construction,3,2.0,Madhavaram
+628,82.0,1674,Under Construction,3,2.0,Madhavaram
+629,82.0,1674,Under Construction,3,2.0,Madhavaram
+630,75.54,1542,Under Construction,3,2.0,Madhavaram
+631,75.54,1542,Under Construction,3,2.0,Madhavaram
+632,62.7,1280,Under Construction,3,2.0,Madhavaram
+633,62.7,1280,Under Construction,3,2.0,Madhavaram
+634,63.0,1286,Under Construction,3,2.0,Madhavaram
+635,63.0,1286,Under Construction,3,2.0,Madhavaram
+636,74.56,1522,Under Construction,3,2.0,Madhavaram
+637,74.56,1522,Under Construction,3,2.0,Madhavaram
+638,49.43,1009,Under Construction,2,2.0,Madhavaram
+639,49.43,1009,Under Construction,2,2.0,Madhavaram
+640,39.5,820,Ready to move,2,2.0,Madhavaram
+641,39.5,820,Ready to move,2,2.0,Madhavaram
+642,80.73,1242,Under Construction,2,2.0,Madipakkam
+643,80.32,1208,Ready to move,2,2.0,Madipakkam
+644,89.7,1380,Under Construction,3,2.0,Madipakkam
+645,96.32,1481,Ready to move,3,2.0,Madipakkam
+646,122.0,1882,Under Construction,3,2.0,Madipakkam
+647,79.49,1223,Under Construction,2,2.0,Madipakkam
+648,84.24,1296,Under Construction,2,2.0,Madipakkam
+649,95.61,1471,Under Construction,3,2.0,Madipakkam
+650,117.0,1807,Under Construction,3,2.0,Madipakkam
+651,96.0,1477,Under Construction,3,2.0,Madipakkam
+652,121.0,1871,Under Construction,3,2.0,Madipakkam
+653,79.3,1220,Under Construction,2,2.0,Madipakkam
+654,126.0,1947,Under Construction,3,2.0,Madipakkam
+655,92.1,1417,Under Construction,3,2.0,Madipakkam
+656,78.84,1213,Under Construction,2,2.0,Madipakkam
+657,77.61,1194,Under Construction,2,2.0,Madipakkam
+658,124.0,1922,Under Construction,3,2.0,Madipakkam
+659,81.57,1255,Under Construction,2,2.0,Madipakkam
+660,82.48,1269,Under Construction,2,2.0,Madipakkam
+661,125.0,1925,Under Construction,3,2.0,Madipakkam
+662,99.32,1528,Under Construction,3,2.0,Madipakkam
+663,90.74,1396,Under Construction,3,2.0,Madipakkam
+664,91.0,1400,Under Construction,3,2.0,Madipakkam
+665,72.63,1089,Ready to move,2,2.0,Madipakkam
+666,74.25,1114,Ready to move,2,2.0,Madipakkam
+667,92.56,1420,Ready to move,3,2.0,Madipakkam
+668,96.94,1491,Ready to move,3,2.0,Madipakkam
+669,93.47,1435,Ready to move,3,2.0,Madipakkam
+670,85.28,1303,Ready to move,3,2.0,Madipakkam
+671,65.0,919,Ready to move,2,2.0,Madipakkam
+672,150.0,2440,Under Construction,4,5.0,Madipakkam
+673,51.06,740,Under Construction,2,2.0,Madipakkam
+674,58.38,965,Under Construction,1,2.0,Madipakkam
+675,57.0,1478,Ready to move,3,2.0,Mahindra World City
+676,29.5,623,Ready to move,1,1.0,Mahindra World City
+677,46.0,1000,Under Construction,2,2.0,Mambakkam
+678,85.0,1635,Under Construction,3,2.0,Manapakkam
+679,64.99,1274,Under Construction,2,2.0,Manapakkam
+680,99.5,1914,Under Construction,3,3.0,Manapakkam
+681,65.3,1280,Under Construction,2,2.0,Manapakkam
+682,67.7,1328,Under Construction,2,2.0,Manapakkam
+683,77.89,1528,Under Construction,3,2.0,Manapakkam
+684,53.0,850,Under Construction,2,2.0,Mangadu
+685,53.0,850,Under Construction,2,2.0,Mangadu
+686,72.0,1957,Ready to move,3,3.0,Maraimalai Nagar
+687,60.0,1500,Ready to move,3,2.0,Maraimalai Nagar
+688,62.0,1433,Ready to move,3,2.0,Maraimalai Nagar
+689,72.05,1310,Under Construction,3,2.0,Medavakkam
+690,51.64,939,Under Construction,2,2.0,Medavakkam
+691,59.56,1083,Under Construction,2,2.0,Medavakkam
+692,51.59,938,Under Construction,2,2.0,Medavakkam
+693,53.62,975,Under Construction,2,2.0,Medavakkam
+694,87.45,1590,Under Construction,3,2.0,Medavakkam
+695,53.57,974,Under Construction,2,2.0,Medavakkam
+696,87.72,1595,Under Construction,3,2.0,Medavakkam
+697,55.82,1015,Under Construction,2,2.0,Medavakkam
+698,80.68,1467,Under Construction,3,2.0,Medavakkam
+699,57.12,985,Under Construction,2,2.0,Medavakkam
+700,57.41,990,Under Construction,2,2.0,Medavakkam
+701,62.91,1085,Under Construction,2,2.0,Medavakkam
+702,56.25,970,Under Construction,2,2.0,Medavakkam
+703,56.83,980,Under Construction,2,2.0,Medavakkam
+704,49.5,1000,Under Construction,2,2.0,Medavakkam
+705,110.0,1851,Ready to move,3,3.0,Medavakkam
+706,50.0,1000,Under Construction,2,2.0,Medavakkam
+707,35.0,750,Ready to move,2,1.0,Medavakkam
+708,35.0,750,Ready to move,2,1.0,Medavakkam
+709,35.0,750,Ready to move,2,1.0,Medavakkam
+710,35.0,750,Ready to move,2,1.0,Medavakkam
+711,35.0,750,Ready to move,2,1.0,Medavakkam
+712,35.0,750,Ready to move,2,1.0,Medavakkam
+713,35.0,750,Ready to move,2,1.0,Medavakkam
+714,35.0,750,Ready to move,2,1.0,Medavakkam
+715,35.0,750,Ready to move,2,1.0,Medavakkam
+716,35.0,750,Ready to move,2,1.0,Medavakkam
+717,35.0,750,Ready to move,2,1.0,Medavakkam
+718,35.0,750,Ready to move,2,1.0,Medavakkam
+719,62.08,1194,Ready to move,3,3.0,Medavakkam
+720,48.41,931,Ready to move,2,2.0,Medavakkam
+721,78.0,1300,Ready to move,3,3.0,Medavakkam
+722,54.06,983,Ready to move,2,2.0,Medavakkam
+723,47.35,861,Ready to move,2,2.0,Medavakkam
+724,58.26,971,Ready to move,2,2.0,Medavakkam
+725,69.35,1261,Ready to move,3,3.0,Medavakkam
+726,69.35,1261,Ready to move,3,3.0,Medavakkam
+727,56.04,1019,Ready to move,2,2.0,Medavakkam
+728,58.26,971,Ready to move,2,2.0,Medavakkam
+729,78.0,1300,Ready to move,3,3.0,Medavakkam
+730,54.06,983,Ready to move,2,2.0,Medavakkam
+731,47.35,861,Ready to move,2,2.0,Medavakkam
+732,31.2,600,Ready to move,1,1.0,Medavakkam
+733,68.88,1148,Ready to move,3,3.0,Medavakkam
+734,53.76,896,Ready to move,2,2.0,Medavakkam
+735,56.88,1094,Ready to move,3,3.0,Medavakkam
+736,51.94,999,Ready to move,2,2.0,Medavakkam
+737,72.71,1322,Ready to move,3,3.0,Medavakkam
+738,43.68,840,Ready to move,2,2.0,Medavakkam
+739,85.0,1712,Ready to move,3,3.0,Medavakkam
+740,64.0,1254,Ready to move,2,2.0,Medavakkam
+741,85.62,1427,Ready to move,3,3.0,Medavakkam
+742,79.02,1317,Ready to move,3,3.0,Medavakkam
+743,75.24,1254,Ready to move,3,3.0,Medavakkam
+744,66.96,1116,Ready to move,3,3.0,Medavakkam
+745,60.0,1000,Ready to move,2,2.0,Medavakkam
+746,53.16,886,Ready to move,2,2.0,Medavakkam
+747,45.06,751,Ready to move,2,2.0,Medavakkam
+748,61.64,1045,Under Construction,2,2.0,Medavakkam
+749,75.5,1280,Under Construction,3,2.0,Medavakkam
+750,151.0,2225,Under Construction,3,2.0,Mogappair
+751,134.0,1974,Under Construction,3,2.0,Mogappair
+752,165.0,2433,Under Construction,4,2.0,Mogappair
+753,169.0,2495,Under Construction,4,2.0,Mogappair
+754,133.0,1962,Under Construction,3,2.0,Mogappair
+755,138.0,2211,Under Construction,4,2.0,Mogappair
+756,97.57,1668,Under Construction,3,2.0,Mogappair
+757,85.99,1470,Under Construction,3,2.0,Mogappair
+758,83.86,1342,Under Construction,2,2.0,Mogappair
+759,121.0,1947,Under Construction,3,2.0,Mogappair
+760,61.48,1051,Under Construction,2,2.0,Mogappair
+761,115.0,1849,Under Construction,3,2.0,Mogappair
+762,139.0,2228,Under Construction,4,2.0,Mogappair
+763,85.17,1363,Under Construction,2,2.0,Mogappair
+764,70.02,1197,Under Construction,2,2.0,Mogappair
+765,70.0,1499,Ready to move,3,3.0,Mogappair
+766,71.51,1069,Under Construction,2,2.0,Mogappair
+767,46.0,1006,Ready to move,2,2.0,Moolacheri
+768,46.12,1006,Ready to move,2,2.0,Moolacheri
+769,51.0,1225,Ready to move,3,2.0,Moolacheri
+770,83.03,1101,Ready to move,3,2.0,Moolakadai
+771,49.34,771,Ready to move,2,2.0,Moolakadai
+772,45.37,709,Ready to move,2,2.0,Moolakadai
+773,88.27,1605,Under Construction,3,2.0,Mugalivakkam
+774,59.29,1078,Under Construction,2,2.0,Mugalivakkam
+775,59.18,1076,Under Construction,2,2.0,Mugalivakkam
+776,86.51,1573,Under Construction,3,2.0,Mugalivakkam
+777,82.88,1507,Under Construction,3,2.0,Mugalivakkam
+778,86.73,1577,Under Construction,3,2.0,Mugalivakkam
+779,59.73,1086,Under Construction,2,2.0,Mugalivakkam
+780,57.86,1052,Under Construction,2,2.0,Mugalivakkam
+781,87.34,1588,Under Construction,3,2.0,Mugalivakkam
+782,62.59,1138,Under Construction,2,2.0,Mugalivakkam
+783,64.02,1164,Under Construction,2,2.0,Mugalivakkam
+784,53.0,1000,Ready to move,2,3.0,Nallambakkam
+785,117.0,1455,Ready to move,3,3.0,Nandambakkam
+786,123.0,1530,Ready to move,3,3.0,Nandambakkam
+787,105.0,1385,Ready to move,3,2.0,Nanganallur
+788,105.0,1385,Ready to move,3,3.0,Nanganallur
+789,23.0,500,Ready to move,1,1.0,Nanmangalam
+790,47.08,961,Ready to move,2,2.0,Nanmangalam
+791,38.61,788,Ready to move,2,2.0,Nanmangalam
+792,45.08,980,Ready to move,2,2.0,Nanmangalam
+793,38.36,834,Ready to move,2,2.0,Nanmangalam
+794,36.57,795,Ready to move,2,2.0,Nanmangalam
+795,49.0,1000,Ready to move,2,2.0,Nanmangalam
+796,43.51,888,Ready to move,2,2.0,Nanmangalam
+797,41.11,839,Ready to move,2,2.0,Nanmangalam
+798,53.39,1139,Ready to move,3,3.0,Nanmangalam
+799,58.8,1200,Ready to move,3,3.0,Nanmangalam
+800,49.0,1000,Ready to move,2,2.0,Nanmangalam
+801,43.51,888,Ready to move,2,2.0,Nanmangalam
+802,57.12,1190,Under Construction,3,3.0,Nanmangalam
+803,58.32,1215,Under Construction,3,3.0,Nanmangalam
+804,45.6,950,Under Construction,2,2.0,Nanmangalam
+805,40.32,840,Under Construction,2,2.0,Nanmangalam
+806,37.68,785,Under Construction,2,2.0,Nanmangalam
+807,33.6,700,Under Construction,2,2.0,Nanmangalam
+808,113.0,2343,Ready to move,4,4.0,Navallur
+809,112.0,2323,Ready to move,4,2.0,Navallur
+810,71.05,1579,Ready to move,3,3.0,Navallur
+811,115.0,2388,Ready to move,4,2.0,Navallur
+812,71.01,1578,Ready to move,3,2.0,Navallur
+813,62.37,1386,Ready to move,3,2.0,Navallur
+814,70.51,1567,Ready to move,3,2.0,Navallur
+815,77.0,1560,Ready to move,2,2.0,Navallur
+816,49.0,1110,Ready to move,2,2.0,Navallur
+817,42.0,979,Under Construction,2,2.0,Navallur
+818,42.0,762,Under Construction,2,2.0,Navallur
+819,59.0,759,Ready to move,2,2.0,Nesapakkam
+820,58.45,759,Ready to move,2,2.0,Nesapakkam
+821,51.06,690,Ready to move,2,2.0,Nesapakkam
+822,91.2,1200,Ready to move,3,3.0,Nesapakkam
+823,55.5,750,Ready to move,2,2.0,Nesapakkam
+824,325.0,1710,Ready to move,3,3.0,Nungambakkam
+825,440.0,2452,Ready to move,3,3.0,Nungambakkam
+826,86.0,1927,Ready to move,3,3.0,Oragadam Industrial Corridor
+827,87.0,1991,Ready to move,3,3.0,Oragadam Industrial Corridor
+828,31.6,750,Under Construction,2,2.0,Ottiyabakkam
+829,53.0,1060,Ready to move,2,3.0,Ottiyabakkam
+830,48.0,1126,Ready to move,1,2.0,Ottiyabakkam
+831,42.0,800,Under Construction,2,2.0,Ottiyabakkam
+832,125.0,2275,Ready to move,4,2.0,Ottiyambakkam
+833,117.0,2132,Ready to move,4,2.0,Ottiyambakkam
+834,112.0,2042,Ready to move,3,2.0,Ottiyambakkam
+835,148.0,2701,Ready to move,3,2.0,Ottiyambakkam
+836,50.31,1450,Ready to move,3,2.0,Padappai
+837,35.74,1030,Ready to move,2,2.0,Padappai
+838,30.71,893,Ready to move,2,2.0,Padappai
+839,28.1,810,Ready to move,2,2.0,Padappai
+840,50.21,1152,Ready to move,2,3.0,Padur
+841,50.21,1152,Ready to move,2,3.0,Padur
+842,50.08,1149,Ready to move,2,2.0,Padur
+843,50.08,1149,Ready to move,2,2.0,Padur
+844,49.99,1147,Ready to move,2,1.0,Padur
+845,49.99,1147,Ready to move,2,1.0,Padur
+846,59.33,1361,Ready to move,2,1.0,Padur
+847,59.33,1361,Ready to move,2,1.0,Padur
+848,56.46,1295,Ready to move,2,1.0,Padur
+849,56.46,1295,Ready to move,2,1.0,Padur
+850,54.96,1261,Ready to move,2,1.0,Padur
+851,54.96,1261,Ready to move,2,1.0,Padur
+852,59.16,1357,Ready to move,2,2.0,Padur
+853,59.16,1357,Ready to move,2,2.0,Padur
+854,55.24,1267,Ready to move,2,2.0,Padur
+855,55.24,1267,Ready to move,2,2.0,Padur
+856,55.14,1265,Ready to move,2,3.0,Padur
+857,55.14,1265,Ready to move,2,3.0,Padur
+858,55.05,1263,Ready to move,2,2.0,Padur
+859,55.05,1263,Ready to move,2,2.0,Padur
+860,71.08,1021,Under Construction,2,1.0,Pallavaram
+861,94.51,1400,Under Construction,3,2.0,Pallavaram
+862,73.82,1085,Under Construction,2,2.0,Pallavaram
+863,73.82,1085,Under Construction,2,2.0,Pallavaram
+864,73.82,1085,Under Construction,2,2.0,Pallavaram
+865,73.82,1085,Under Construction,2,2.0,Pallavaram
+866,73.82,1085,Under Construction,2,2.0,Pallavaram
+867,71.08,1021,Under Construction,2,1.0,Pallavaram
+868,71.08,1021,Under Construction,2,1.0,Pallavaram
+869,108.0,1564,Under Construction,3,2.0,Pallavaram
+870,108.0,1564,Under Construction,3,2.0,Pallavaram
+871,94.51,1400,Under Construction,3,2.0,Pallavaram
+872,94.51,1400,Under Construction,3,2.0,Pallavaram
+873,54.03,837,Under Construction,2,2.0,Pallavaram
+874,54.39,861,Under Construction,2,2.0,Pallavaram
+875,49.44,777,Under Construction,2,2.0,Pallavaram
+876,52.42,783,Under Construction,2,2.0,Pallavaram
+877,54.57,864,Under Construction,2,2.0,Pallavaram
+878,99.9,1350,Under Construction,3,3.0,Pallavaram
+879,81.4,1122,Under Construction,2,2.0,Pallavaram
+880,99.9,1350,Under Construction,3,3.0,Pallavaram
+881,81.4,1122,Under Construction,2,2.0,Pallavaram
+882,118.0,1600,Under Construction,3,3.0,Pallavaram
+883,81.4,1122,Under Construction,2,2.0,Pallavaram
+884,118.0,1600,Under Construction,3,3.0,Pallavaram
+885,85.0,1300,Ready to move,2,2.0,Pallavaram
+886,35.0,620,Ready to move,1,1.0,Pallikaranai
+887,35.0,620,Ready to move,1,1.0,Pallikaranai
+888,35.0,620,Ready to move,1,1.0,Pallikaranai
+889,35.0,620,Ready to move,1,1.0,Pallikaranai
+890,72.63,1243,Ready to move,1,2.0,Pallikaranai
+891,35.0,620,Ready to move,1,1.0,Pallikaranai
+892,51.46,919,Under Construction,2,2.0,Pammal
+893,51.46,919,Under Construction,2,2.0,Pammal
+894,66.99,1155,Under Construction,3,2.0,Pammal
+895,49.88,860,Under Construction,2,2.0,Pammal
+896,46.11,795,Under Construction,2,2.0,Pammal
+897,48.88,873,Under Construction,2,2.0,Pammal
+898,74.48,1330,Under Construction,3,2.0,Pammal
+899,74.48,1330,Under Construction,3,2.0,Pammal
+900,63.39,1132,Under Construction,3,2.0,Pammal
+901,63.39,1132,Under Construction,3,2.0,Pammal
+902,72.85,1301,Under Construction,3,2.0,Pammal
+903,72.85,1301,Under Construction,3,2.0,Pammal
+904,66.99,1155,Under Construction,3,2.0,Pammal
+905,46.11,795,Under Construction,2,2.0,Pammal
+906,49.88,860,Under Construction,2,2.0,Pammal
+907,66.99,1155,Under Construction,3,2.0,Pammal
+908,46.11,795,Under Construction,2,2.0,Pammal
+909,66.99,1155,Under Construction,3,2.0,Pammal
+910,49.88,860,Under Construction,2,2.0,Pammal
+911,46.11,795,Under Construction,2,2.0,Pammal
+912,67.62,1166,Under Construction,3,2.0,Pammal
+913,49.88,860,Under Construction,2,2.0,Pammal
+914,67.62,1166,Under Construction,3,2.0,Pammal
+915,60.55,1044,Under Construction,3,2.0,Pammal
+916,60.55,1044,Under Construction,3,2.0,Pammal
+917,42.28,729,Under Construction,2,2.0,Pammal
+918,60.55,1044,Under Construction,3,2.0,Pammal
+919,42.28,729,Under Construction,2,2.0,Pammal
+920,42.28,729,Under Construction,2,2.0,Pammal
+921,77.02,1328,Under Construction,3,2.0,Pammal
+922,77.02,1328,Under Construction,3,2.0,Pammal
+923,57.59,993,Under Construction,3,2.0,Pammal
+924,57.59,993,Under Construction,3,2.0,Pammal
+925,61.88,1067,Under Construction,3,2.0,Pammal
+926,61.88,1067,Under Construction,3,2.0,Pammal
+927,47.27,815,Under Construction,2,2.0,Pammal
+928,47.27,815,Under Construction,2,2.0,Pammal
+929,48.21,928,Ready to move,2,2.0,Pammal
+930,40.59,743,Ready to move,2,2.0,Pammal
+931,22.99,430,Ready to move,1,2.0,Pammal
+932,45.03,830,Ready to move,2,2.0,Pammal
+933,35.32,652,Ready to move,2,2.0,Pammal
+934,35.32,652,Ready to move,2,2.0,Pammal
+935,66.05,1216,Ready to move,3,2.0,Pammal
+936,66.05,1216,Ready to move,3,2.0,Pammal
+937,42.3,791,Ready to move,2,2.0,Pammal
+938,42.3,791,Ready to move,2,2.0,Pammal
+939,39.19,729,Ready to move,2,2.0,Pammal
+940,39.19,729,Ready to move,2,2.0,Pammal
+941,53.54,976,Ready to move,2,2.0,Pammal
+942,53.54,976,Ready to move,2,2.0,Pammal
+943,45.72,859,Ready to move,2,2.0,Pammal
+944,45.72,859,Ready to move,2,2.0,Pammal
+945,28.43,546,Ready to move,1,2.0,Pammal
+946,28.43,546,Ready to move,1,2.0,Pammal
+947,43.41,813,Ready to move,2,2.0,Pammal
+948,43.41,813,Ready to move,2,2.0,Pammal
+949,52.36,952,Under Construction,2,2.0,Pammal
+950,39.49,718,Under Construction,2,2.0,Pammal
+951,35.86,652,Under Construction,2,2.0,Pammal
+952,67.1,1220,Under Construction,3,2.0,Pammal
+953,44.0,800,Under Construction,2,2.0,Pammal
+954,56.02,1050,Under Construction,2,2.0,Pammal
+955,46.84,905,Under Construction,2,2.0,Pammal
+956,55.97,1049,Under Construction,2,2.0,Pammal
+957,44.63,860,Under Construction,2,2.0,Pammal
+958,45.37,875,Under Construction,2,2.0,Pammal
+959,62.14,1170,Under Construction,3,2.0,Pammal
+960,44.16,803,Ready to move,2,2.0,Pammal
+961,41.58,756,Ready to move,1,2.0,Pammal
+962,32.01,582,Ready to move,1,2.0,Pammal
+963,30.5,620,Ready to move,2,2.0,Pammal
+964,38.78,808,Ready to move,2,2.0,Pammal
+965,25.68,535,Ready to move,1,1.0,Pammal
+966,44.78,933,Ready to move,3,3.0,Pammal
+967,42.18,868,Ready to move,2,2.0,Pammal
+968,42.18,868,Ready to move,2,2.0,Pammal
+969,42.18,868,Ready to move,2,2.0,Pammal
+970,42.18,868,Ready to move,2,2.0,Pammal
+971,42.18,868,Ready to move,2,2.0,Pammal
+972,42.18,868,Ready to move,2,2.0,Pammal
+973,42.18,868,Ready to move,2,2.0,Pammal
+974,42.18,868,Ready to move,2,2.0,Pammal
+975,42.18,868,Ready to move,2,2.0,Pammal
+976,42.18,868,Ready to move,2,2.0,Pammal
+977,42.18,868,Ready to move,2,2.0,Pammal
+978,42.18,868,Ready to move,2,2.0,Pammal
+979,42.18,868,Ready to move,2,2.0,Pammal
+980,42.18,868,Ready to move,2,2.0,Pammal
+981,42.18,868,Ready to move,2,2.0,Pammal
+982,42.18,868,Ready to move,2,2.0,Pammal
+983,42.18,868,Ready to move,2,2.0,Pammal
+984,42.18,868,Ready to move,2,2.0,Pammal
+985,42.18,868,Ready to move,2,2.0,Pammal
+986,42.18,868,Ready to move,2,2.0,Pammal
+987,42.18,868,Ready to move,2,2.0,Pammal
+988,42.8,855,Ready to move,2,2.0,Pammal
+989,90.0,1700,Under Construction,3,3.0,Pammal
+990,72.0,1300,Ready to move,3,3.0,Pammal
+991,90.0,1700,Under Construction,3,3.0,Pammal
+992,35.0,953,Under Construction,2,2.0,Pattabiram
+993,25.0,650,Ready to move,2,2.0,Pattabiram
+994,25.0,650,Ready to move,2,2.0,Pattabiram
+995,25.0,650,Ready to move,2,2.0,Pattabiram
+996,57.0,1500,Ready to move,2,3.0,Peerakankaranai
+997,48.0,1160,Ready to move,2,3.0,Peerakankaranai
+998,56.0,1000,Ready to move,2,2.0,Perambur
+999,370.0,3600,Ready to move,3,3.0,Periyar Nagar
+1000,34.0,1150,Under Construction,2,2.0,Perumalpattu
+1001,34.0,1150,Ready to move,2,2.0,Perumalpattu
+1002,34.0,1151,Ready to move,2,2.0,Perumalpattu
+1003,40.75,910,Under Construction,2,2.0,Perumbakkam
+1004,47.04,920,Under Construction,2,2.0,Perumbakkam
+1005,57.0,1240,Under Construction,2,2.0,Perumbakkam
+1006,110.0,2320,Under Construction,4,2.0,Perumbakkam
+1007,62.6,1360,Under Construction,3,2.0,Perumbakkam
+1008,90.29,1962,Under Construction,3,3.0,Perumbakkam
+1009,65.8,1535,Under Construction,3,2.0,Perumbakkam
+1010,39.75,885,Under Construction,2,2.0,Perumbakkam
+1011,70.4,1650,Under Construction,3,2.0,Perumbakkam
+1012,56.98,1315,Under Construction,2,2.0,Perumbakkam
+1013,47.68,1080,Under Construction,2,2.0,Perumbakkam
+1014,51.44,973,Under Construction,2,2.0,Perumbakkam
+1015,64.59,1244,Under Construction,3,3.0,Perumbakkam
+1016,59.08,1143,Under Construction,3,3.0,Perumbakkam
+1017,64.59,1244,Under Construction,3,3.0,Perumbakkam
+1018,64.59,1244,Under Construction,3,3.0,Perumbakkam
+1019,59.08,1143,Under Construction,3,3.0,Perumbakkam
+1020,59.08,1143,Under Construction,3,3.0,Perumbakkam
+1021,59.41,1150,Under Construction,3,3.0,Perumbakkam
+1022,59.41,1150,Under Construction,3,3.0,Perumbakkam
+1023,64.02,1246,Under Construction,3,3.0,Perumbakkam
+1024,64.02,1246,Under Construction,3,3.0,Perumbakkam
+1025,58.77,1124,Under Construction,3,3.0,Perumbakkam
+1026,58.77,1124,Under Construction,3,3.0,Perumbakkam
+1027,45.0,909,Ready to move,2,2.0,Perumbakkam
+1028,41.78,1045,Under Construction,2,2.0,Perumbakkam
+1029,62.98,1575,Under Construction,3,2.0,Perumbakkam
+1030,63.18,1580,Under Construction,3,2.0,Perumbakkam
+1031,42.18,1055,Under Construction,2,2.0,Perumbakkam
+1032,64.38,1610,Under Construction,3,2.0,Perumbakkam
+1033,60.58,1515,Under Construction,3,2.0,Perumbakkam
+1034,60.78,1520,Under Construction,3,2.0,Perumbakkam
+1035,54.98,1375,Under Construction,2,2.0,Perumbakkam
+1036,40.58,1015,Under Construction,2,2.0,Perumbakkam
+1037,53.58,1340,Under Construction,2,2.0,Perumbakkam
+1038,64.0,1238,Ready to move,3,2.0,Perumbakkam
+1039,41.52,865,Under Construction,2,2.0,Perumbakkam
+1040,39.75,885,Under Construction,2,2.0,Perumbakkam
+1041,65.8,1535,Under Construction,3,3.0,Perumbakkam
+1042,39.4,788,Ready to move,2,2.0,Perumbakkam
+1043,54.55,1091,Ready to move,3,3.0,Perumbakkam
+1044,48.85,977,Ready to move,2,2.0,Perumbakkam
+1045,70.6,1400,Ready to move,3,3.0,Perumbakkam
+1046,43.15,863,Ready to move,2,2.0,Perumbakkam
+1047,95.0,1900,Ready to move,3,3.0,Perumbakkam
+1048,85.0,1800,Ready to move,3,3.0,Perumbakkam
+1049,37.7,903,Under Construction,2,2.0,Perungalathur
+1050,44.0,1054,Under Construction,2,2.0,Perungalathur
+1051,40.53,971,Under Construction,2,2.0,Perungalathur
+1052,51.01,1222,Under Construction,3,2.0,Perungalathur
+1053,33.19,795,Under Construction,2,2.0,Perungalathur
+1054,48.26,1156,Under Construction,2,2.0,Perungalathur
+1055,36.11,865,Under Construction,2,2.0,Perungalathur
+1056,37.4,896,Under Construction,2,2.0,Perungalathur
+1057,39.78,953,Under Construction,2,2.0,Perungalathur
+1058,32.81,786,Under Construction,2,2.0,Perungalathur
+1059,47.76,1144,Under Construction,3,2.0,Perungalathur
+1060,36.9,884,Under Construction,2,2.0,Perungalathur
+1061,35.77,857,Under Construction,2,2.0,Perungalathur
+1062,32.94,789,Under Construction,2,2.0,Perungalathur
+1063,32.73,784,Under Construction,2,2.0,Perungalathur
+1064,32.69,783,Under Construction,2,2.0,Perungalathur
+1065,47.26,1132,Under Construction,3,2.0,Perungalathur
+1066,33.94,813,Under Construction,2,2.0,Perungalathur
+1067,28.0,502,Ready to move,1,1.0,Perungalathur
+1068,96.0,1900,Under Construction,3,3.0,Perungalathur
+1069,60.0,1400,Ready to move,3,3.0,Perungalathur
+1070,77.0,1400,Ready to move,3,3.0,Perungalathur
+1071,65.0,1250,Ready to move,3,3.0,Perungalathur
+1072,77.0,1400,Ready to move,3,3.0,Perungalathur
+1073,62.0,1030,Ready to move,3,2.0,Perungalathur
+1074,62.0,1030,Ready to move,3,2.0,Perungalathur
+1075,62.0,1030,Ready to move,3,2.0,Perungalathur
+1076,62.0,1030,Ready to move,3,2.0,Perungalathur
+1077,62.0,1030,Ready to move,3,2.0,Perungalathur
+1078,62.0,1030,Ready to move,3,2.0,Perungalathur
+1079,62.0,1030,Ready to move,3,2.0,Perungalathur
+1080,62.0,1030,Ready to move,3,2.0,Perungalathur
+1081,62.0,1030,Ready to move,3,2.0,Perungalathur
+1082,62.0,1030,Ready to move,3,2.0,Perungalathur
+1083,62.0,1030,Ready to move,3,2.0,Perungalathur
+1084,62.0,1030,Ready to move,3,2.0,Perungalathur
+1085,62.0,1030,Ready to move,3,2.0,Perungalathur
+1086,62.0,1030,Ready to move,3,2.0,Perungalathur
+1087,62.0,1030,Ready to move,3,2.0,Perungalathur
+1088,62.0,1030,Ready to move,3,2.0,Perungalathur
+1089,62.0,1030,Ready to move,3,2.0,Perungalathur
+1090,58.0,1030,Ready to move,3,2.0,Perungalathur
+1091,69.6,1200,Ready to move,3,3.0,Perungalathur
+1092,60.32,1040,Ready to move,2,2.0,Perungalathur
+1093,54.17,934,Ready to move,2,2.0,Perungalathur
+1094,51.56,889,Ready to move,2,2.0,Perungalathur
+1095,53.0,974,Under Construction,2,2.0,Perungalathur
+1096,66.0,1366,Under Construction,3,2.0,Perungalathur
+1097,131.0,1556,Under Construction,2,2.0,Perungudi
+1098,251.0,2550,Under Construction,3,2.0,Perungudi
+1099,226.0,2288,Under Construction,3,2.0,Perungudi
+1100,306.0,3096,Under Construction,4,2.0,Perungudi
+1101,223.0,2256,Under Construction,3,2.0,Perungudi
+1102,172.0,2030,Under Construction,3,2.0,Perungudi
+1103,192.0,2269,Under Construction,3,2.0,Perungudi
+1104,124.0,1477,Under Construction,2,2.0,Perungudi
+1105,147.0,1734,Under Construction,3,2.0,Perungudi
+1106,113.0,1343,Under Construction,2,2.0,Perungudi
+1107,169.0,2004,Under Construction,3,2.0,Perungudi
+1108,321.0,3252,Under Construction,4,2.0,Perungudi
+1109,187.0,2223,Under Construction,3,2.0,Perungudi
+1110,190.0,2242,Under Construction,3,2.0,Perungudi
+1111,190.0,2238,Under Construction,3,2.0,Perungudi
+1112,169.0,1989,Under Construction,3,2.0,Perungudi
+1113,147.0,1723,Under Construction,3,2.0,Perungudi
+1114,146.0,1730,Under Construction,3,2.0,Perungudi
+1115,156.0,1836,Under Construction,3,2.0,Perungudi
+1116,111.0,1311,Under Construction,2,2.0,Perungudi
+1117,131.0,1561,Under Construction,2,2.0,Perungudi
+1118,240.0,2429,Under Construction,3,2.0,Perungudi
+1119,110.0,1317,Under Construction,2,2.0,Perungudi
+1120,111.0,1313,Under Construction,2,2.0,Perungudi
+1121,178.0,2113,Under Construction,3,2.0,Perungudi
+1122,134.0,1583,Under Construction,2,2.0,Perungudi
+1123,133.0,1577,Under Construction,2,2.0,Perungudi
+1124,133.0,1580,Under Construction,2,2.0,Perungudi
+1125,236.0,2398,Under Construction,3,2.0,Perungudi
+1126,316.0,3210,Under Construction,4,2.0,Perungudi
+1127,163.0,1941,Under Construction,3,2.0,Perungudi
+1128,178.0,2111,Under Construction,3,2.0,Perungudi
+1129,178.0,2109,Under Construction,3,2.0,Perungudi
+1130,165.0,1944,Under Construction,3,2.0,Perungudi
+1131,118.0,1394,Under Construction,2,2.0,Perungudi
+1132,117.0,1392,Under Construction,2,2.0,Perungudi
+1133,174.0,2060,Under Construction,3,2.0,Perungudi
+1134,175.0,2063,Under Construction,3,2.0,Perungudi
+1135,118.0,1398,Under Construction,2,2.0,Perungudi
+1136,175.0,2073,Under Construction,3,2.0,Perungudi
+1137,137.0,1485,Ready to move,3,3.0,Perungudi
+1138,137.0,1638,Under Construction,3,3.0,Perungudi
+1139,101.0,1188,Under Construction,2,2.0,Perungudi
+1140,51.37,598,Under Construction,1,1.0,Perungudi
+1141,138.0,1380,Ready to move,3,3.0,Perungudi
+1142,120.0,1200,Ready to move,3,3.0,Perungudi
+1143,120.0,1200,Ready to move,3,3.0,Perungudi
+1144,130.0,1308,Ready to move,3,3.0,Perungudi
+1145,125.0,1250,Ready to move,3,3.0,Perungudi
+1146,104.0,1044,Ready to move,2,2.0,Perungudi
+1147,106.0,1060,Ready to move,2,2.0,Perungudi
+1148,106.0,1062,Ready to move,2,2.0,Perungudi
+1149,137.0,1370,Ready to move,3,3.0,Perungudi
+1150,126.0,1264,Ready to move,3,3.0,Perungudi
+1151,106.0,1065,Ready to move,2,2.0,Perungudi
+1152,106.0,1060,Ready to move,2,2.0,Perungudi
+1153,137.0,1370,Ready to move,3,3.0,Perungudi
+1154,130.0,1308,Ready to move,3,3.0,Perungudi
+1155,130.0,1308,Ready to move,3,3.0,Perungudi
+1156,120.0,1200,Ready to move,3,3.0,Perungudi
+1157,104.0,1044,Ready to move,2,2.0,Perungudi
+1158,120.0,1200,Ready to move,3,3.0,Perungudi
+1159,138.0,1380,Ready to move,3,3.0,Perungudi
+1160,126.0,1264,Ready to move,3,3.0,Perungudi
+1161,125.0,1250,Ready to move,3,3.0,Perungudi
+1162,125.0,1250,Ready to move,3,3.0,Perungudi
+1163,137.0,1370,Ready to move,3,3.0,Perungudi
+1164,138.0,1380,Ready to move,3,3.0,Perungudi
+1165,130.0,1308,Ready to move,3,3.0,Perungudi
+1166,88.39,1637,Ready to move,3,2.0,Poonamallee
+1167,79.54,1473,Ready to move,3,2.0,Poonamallee
+1168,54.1,1002,Ready to move,2,2.0,Poonamallee
+1169,76.57,1418,Ready to move,3,2.0,Poonamallee
+1170,79.54,1473,Ready to move,3,2.0,Poonamallee
+1171,54.1,1002,Ready to move,2,2.0,Poonamallee
+1172,76.57,1418,Ready to move,3,2.0,Poonamallee
+1173,52.43,971,Ready to move,2,2.0,Poonamallee
+1174,76.68,1420,Ready to move,3,3.0,Poonamallee
+1175,53.89,998,Ready to move,2,2.0,Poonamallee
+1176,53.83,997,Ready to move,2,2.0,Poonamallee
+1177,88.23,1634,Ready to move,3,3.0,Poonamallee
+1178,53.83,997,Ready to move,2,2.0,Poonamallee
+1179,72.0,1500,Ready to move,3,3.0,Poonamallee
+1180,80.0,1700,Ready to move,3,3.0,Poonamallee
+1181,69.47,965,Under Construction,2,2.0,Porur
+1182,78.71,1212,Under Construction,2,2.0,Porur
+1183,66.44,923,Under Construction,2,2.0,Porur
+1184,92.65,1287,Under Construction,3,2.0,Porur
+1185,78.1,1085,Under Construction,3,3.0,Porur
+1186,73.93,1027,Under Construction,2,2.0,Porur
+1187,69.9,971,Under Construction,2,2.0,Porur
+1188,69.54,966,Under Construction,2,2.0,Porur
+1189,80.47,1239,Under Construction,3,2.0,Porur
+1190,62.09,956,Under Construction,2,2.0,Porur
+1191,81.31,1252,Under Construction,3,2.0,Porur
+1192,81.05,1248,Under Construction,2,2.0,Porur
+1193,61.37,945,Under Construction,2,2.0,Porur
+1194,70.99,1093,Under Construction,2,2.0,Porur
+1195,61.18,942,Under Construction,2,2.0,Porur
+1196,79.43,1223,Under Construction,2,2.0,Porur
+1197,84.17,1296,Under Construction,3,2.0,Porur
+1198,85.0,1071,Ready to move,2,2.0,Porur
+1199,85.0,1071,Ready to move,2,2.0,Porur
+1200,69.47,965,Under Construction,2,2.0,Porur
+1201,66.44,923,Under Construction,2,2.0,Porur
+1202,92.65,1287,Under Construction,3,2.0,Porur
+1203,78.1,1085,Under Construction,3,3.0,Porur
+1204,73.93,1027,Under Construction,2,2.0,Porur
+1205,69.9,971,Under Construction,2,2.0,Porur
+1206,69.54,966,Under Construction,2,2.0,Porur
+1207,66.0,950,Under Construction,2,2.0,Porur
+1208,64.0,959,Under Construction,2,2.0,Porur
+1209,76.0,1085,Under Construction,3,3.0,Porur
+1210,40.08,835,Ready to move,2,2.0,Pozhichalur
+1211,40.22,838,Ready to move,2,2.0,Pozhichalur
+1212,32.3,673,Ready to move,2,2.0,Pozhichalur
+1213,24.09,502,Under Construction,1,2.0,Pozhichalur
+1214,33.93,707,Under Construction,2,2.0,Pozhichalur
+1215,22.84,476,Under Construction,1,2.0,Pozhichalur
+1216,35.85,747,Under Construction,2,2.0,Pozhichalur
+1217,50.49,1020,Under Construction,3,2.0,Pozhichalur
+1218,29.7,600,Under Construction,1,2.0,Pozhichalur
+1219,40.34,815,Under Construction,2,2.0,Pozhichalur
+1220,46.03,930,Under Construction,2,2.0,Pozhichalur
+1221,49.5,1000,Under Construction,3,2.0,Pozhichalur
+1222,34.15,690,Under Construction,2,2.0,Pozhichalur
+1223,48.26,975,Under Construction,2,2.0,Pozhichalur
+1224,39.6,800,Under Construction,2,2.0,Pozhichalur
+1225,66.8,1380,Ready to move,3,2.0,Pudupakkam
+1226,76.0,1460,Ready to move,3,2.0,Pudupakkam
+1227,103.0,1993,Ready to move,3,2.0,Pudupakkam
+1228,103.0,1993,Ready to move,3,2.0,Pudupakkam
+1229,72.0,1370,Ready to move,3,2.0,Pudupakkam
+1230,240.0,2028,Ready to move,3,3.0,Purasaiwakkam
+1231,250.0,1942,Ready to move,3,3.0,Purasawalkam
+1232,37.34,770,Under Construction,2,2.0,Ragavendra Colony
+1233,41.12,848,Under Construction,2,2.0,Ragavendra Colony
+1234,37.34,770,Under Construction,2,2.0,Ragavendra Colony
+1235,41.12,848,Under Construction,2,2.0,Ragavendra Colony
+1236,210.0,1400,Ready to move,1,2.0,Raja Annamalai Puram
+1237,525.0,3170,Ready to move,3,4.0,Raja Annamalai Puram
+1238,43.0,799,Ready to move,2,2.0,Rajakilpakkam
+1239,95.0,1700,Ready to move,3,3.0,Rajakilpakkam
+1240,78.4,1400,Ready to move,3,3.0,Rajakilpakkam
+1241,72.8,1300,Ready to move,3,3.0,Rajakilpakkam
+1242,66.58,1189,Ready to move,3,3.0,Rajakilpakkam
+1243,57.34,1024,Ready to move,2,2.0,Rajakilpakkam
+1244,53.98,964,Ready to move,2,2.0,Rajakilpakkam
+1245,46.25,826,Ready to move,2,2.0,Rajakilpakkam
+1246,43.96,785,Ready to move,2,2.0,Rajakilpakkam
+1247,63.45,1269,Ready to move,3,3.0,Rajakilpakkam
+1248,59.2,1184,Ready to move,3,3.0,Rajakilpakkam
+1249,55.0,1100,Ready to move,3,3.0,Rajakilpakkam
+1250,48.2,964,Ready to move,2,2.0,Rajakilpakkam
+1251,45.0,900,Ready to move,2,2.0,Rajakilpakkam
+1252,40.6,812,Ready to move,2,2.0,Rajakilpakkam
+1253,47.02,825,Ready to move,2,2.0,Ramapuram
+1254,47.02,825,Ready to move,2,2.0,Ramapuram
+1255,47.02,825,Ready to move,2,2.0,Ramapuram
+1256,76.5,1150,Ready to move,2,2.0,Ramapuram
+1257,79.8,1400,Ready to move,3,3.0,Ramavaram
+1258,58.0,1250,Ready to move,2,3.0,Rathinamangalam
+1259,168.0,994,Under Construction,2,2.0,Royapettah
+1260,168.0,994,Ready to move,2,2.0,Royapettah
+1261,230.0,1440,Ready to move,3,3.0,Royapettah
+1262,385.0,2336,Ready to move,3,3.0,Royapettah
+1263,903.0,4200,Ready to move,3,2.0,Royapettah
+1264,636.0,2961,Ready to move,3,2.0,Royapettah
+1265,635.0,2958,Ready to move,3,2.0,Royapettah
+1266,636.0,2960,Ready to move,4,2.0,Royapettah
+1267,635.0,2957,Ready to move,4,2.0,Royapettah
+1268,1397.0,6500,Ready to move,5,2.0,Royapettah
+1269,645.0,3000,Ready to move,3,2.0,Royapettah
+1270,838.0,3899,Ready to move,3,2.0,Royapettah
+1271,674.0,3135,Ready to move,3,3.0,Royapettah
+1272,114.0,600,Ready to move,1,2.0,Royapettah
+1273,636.0,2959,Ready to move,4,2.0,Royapettah
+1274,832.0,3874,Ready to move,3,2.0,Royapettah
+1275,1397.0,6498,Ready to move,5,2.0,Royapettah
+1276,817.0,3800,Ready to move,3,2.0,Royapettah
+1277,1422.0,6617,Ready to move,5,2.0,Royapettah
+1278,674.0,3139,Ready to move,4,2.0,Royapettah
+1279,138.0,1340,Under Construction,3,2.0,Saidapet
+1280,121.0,1175,Under Construction,3,2.0,Saidapet
+1281,141.0,1375,Under Construction,3,2.0,Saidapet
+1282,159.0,1550,Under Construction,3,2.0,Saidapet
+1283,160.0,1555,Under Construction,3,2.0,Saidapet
+1284,157.0,1525,Under Construction,3,2.0,Saidapet
+1285,146.0,1425,Under Construction,3,2.0,Saidapet
+1286,160.0,1560,Under Construction,3,2.0,Saidapet
+1287,108.0,1065,Ready to move,2,2.0,Saligramam
+1288,108.0,1065,Ready to move,2,2.0,Saligramam
+1289,108.0,1065,Ready to move,2,2.0,Saligramam
+1290,101.0,1760,Under Construction,3,2.0,Selaiyur
+1291,175.0,2544,Under Construction,4,2.0,Selaiyur
+1292,67.32,1030,Ready to move,2,2.0,Selaiyur
+1293,67.32,1030,Ready to move,2,2.0,Selaiyur
+1294,79.71,1226,Ready to move,3,2.0,Selaiyur
+1295,79.71,1226,Ready to move,3,2.0,Selaiyur
+1296,67.32,1030,Ready to move,2,2.0,Selaiyur
+1297,67.32,1030,Ready to move,2,2.0,Selaiyur
+1298,79.71,1226,Ready to move,3,2.0,Selaiyur
+1299,79.71,1226,Ready to move,3,2.0,Selaiyur
+1300,53.85,1122,Ready to move,3,3.0,Selaiyur
+1301,43.48,906,Ready to move,2,2.0,Selaiyur
+1302,40.27,839,Ready to move,2,2.0,Selaiyur
+1303,100.0,2100,Ready to move,3,3.0,Selaiyur
+1304,95.0,2000,Ready to move,3,3.0,Selaiyur
+1305,90.0,1900,Ready to move,3,3.0,Selaiyur
+1306,85.0,1800,Ready to move,3,3.0,Selaiyur
+1307,80.0,1700,Ready to move,3,3.0,Selaiyur
+1308,90.0,1667,Ready to move,3,3.0,Selaiyur
+1309,100.0,2100,Ready to move,3,3.0,Selaiyur
+1310,95.0,2000,Ready to move,3,3.0,Selaiyur
+1311,85.0,1583,Ready to move,3,3.0,Selaiyur
+1312,90.0,1900,Ready to move,3,3.0,Selaiyur
+1313,100.0,1874,Ready to move,3,3.0,Selaiyur
+1314,85.0,1800,Ready to move,3,3.0,Selaiyur
+1315,80.0,1700,Ready to move,3,3.0,Selaiyur
+1316,94.0,1793,Ready to move,3,3.0,Selaiyur
+1317,100.0,2000,Ready to move,3,3.0,Selaiyur
+1318,90.0,1674,Ready to move,3,3.0,Selaiyur
+1319,95.0,1800,Ready to move,3,3.0,Selaiyur
+1320,90.0,1740,Ready to move,3,3.0,Selaiyur
+1321,84.0,1600,Ready to move,3,3.0,Selaiyur
+1322,85.0,1664,Ready to move,3,3.0,Selaiyur
+1323,110.0,2000,Ready to move,3,3.0,Selaiyur
+1324,100.0,1839,Ready to move,3,3.0,Selaiyur
+1325,95.0,1741,Ready to move,3,3.0,Selaiyur
+1326,48.87,905,Ready to move,2,2.0,Selaiyur
+1327,46.54,862,Ready to move,2,2.0,Selaiyur
+1328,41.52,769,Ready to move,2,2.0,Selaiyur
+1329,39.26,818,Ready to move,2,2.0,Selaiyur
+1330,73.6,1269,Ready to move,3,3.0,Selaiyur
+1331,69.07,1191,Ready to move,3,3.0,Selaiyur
+1332,62.06,1070,Ready to move,2,2.0,Selaiyur
+1333,57.71,995,Ready to move,2,2.0,Selaiyur
+1334,55.85,963,Ready to move,2,2.0,Selaiyur
+1335,51.85,894,Ready to move,2,2.0,Selaiyur
+1336,47.56,820,Ready to move,2,2.0,Selaiyur
+1337,59.83,1108,Ready to move,3,3.0,Selaiyur
+1338,58.96,1092,Ready to move,3,3.0,Selaiyur
+1339,28.35,525,Ready to move,1,1.0,Selaiyur
+1340,72.0,1218,Under Construction,3,3.0,Sembakkam
+1341,52.5,960,Ready to move,2,2.0,Sembakkam
+1342,44.0,800,Ready to move,2,2.0,Sembakkam
+1343,27.5,586,Ready to move,1,1.0,Sembakkam
+1344,28.0,586,Ready to move,1,1.0,Sembakkam
+1345,28.0,586,Ready to move,1,1.0,Sembakkam
+1346,28.0,586,Ready to move,1,1.0,Sembakkam
+1347,28.0,586,Ready to move,1,1.0,Sembakkam
+1348,28.0,586,Ready to move,1,1.0,Sembakkam
+1349,28.0,586,Ready to move,1,1.0,Sembakkam
+1350,28.0,586,Ready to move,1,1.0,Sembakkam
+1351,28.0,586,Ready to move,1,1.0,Sembakkam
+1352,28.0,586,Ready to move,1,1.0,Sembakkam
+1353,28.0,586,Ready to move,1,1.0,Sembakkam
+1354,28.0,586,Ready to move,1,1.0,Sembakkam
+1355,28.0,586,Ready to move,1,1.0,Sembakkam
+1356,28.0,586,Ready to move,1,1.0,Sembakkam
+1357,28.0,586,Ready to move,1,1.0,Sembakkam
+1358,36.0,809,Ready to move,2,2.0,Sembakkam
+1359,39.5,809,Ready to move,2,2.0,Sembakkam
+1360,39.5,809,Ready to move,2,2.0,Sembakkam
+1361,39.5,809,Ready to move,2,2.0,Sembakkam
+1362,39.5,809,Ready to move,2,2.0,Sembakkam
+1363,39.5,809,Ready to move,2,2.0,Sembakkam
+1364,56.1,1020,Under Construction,3,2.0,Sembakkam
+1365,60.5,1100,Under Construction,3,2.0,Sembakkam
+1366,64.78,1117,Ready to move,3,3.0,Sembakkam
+1367,81.2,1400,Ready to move,3,3.0,Sembakkam
+1368,81.2,1400,Ready to move,3,3.0,Sembakkam
+1369,74.87,1291,Ready to move,3,3.0,Sembakkam
+1370,52.2,900,Ready to move,2,2.0,Sembakkam
+1371,64.78,1117,Ready to move,3,3.0,Sembakkam
+1372,120.0,2000,Ready to move,3,3.0,Sembakkam
+1373,100.0,1821,Ready to move,3,3.0,Sembakkam
+1374,95.0,1783,Ready to move,3,3.0,Sembakkam
+1375,90.0,1624,Ready to move,3,3.0,Sembakkam
+1376,140.0,2200,Under Construction,4,4.0,Sembakkam
+1377,73.37,1249,Ready to move,3,3.0,Sembakkam
+1378,69.26,1179,Ready to move,3,3.0,Sembakkam
+1379,57.75,983,Ready to move,2,2.0,Sembakkam
+1380,47.94,861,Ready to move,2,2.0,Sembakkam
+1381,54.3,905,Ready to move,2,2.0,Sembakkam
+1382,50.1,835,Ready to move,2,2.0,Sembakkam
+1383,71.91,1383,Ready to move,3,3.0,Sembakkam
+1384,60.63,1166,Ready to move,3,3.0,Sembakkam
+1385,51.01,981,Ready to move,2,2.0,Sembakkam
+1386,48.41,931,Ready to move,2,2.0,Sembakkam
+1387,44.25,851,Ready to move,2,2.0,Sembakkam
+1388,41.6,800,Ready to move,2,2.0,Sembakkam
+1389,27.6,600,Under Construction,2,2.0,Semmancheri
+1390,27.6,600,Under Construction,2,2.0,Semmancheri
+1391,34.0,700,Under Construction,2,2.0,Semmancheri
+1392,39.0,800,Under Construction,2,2.0,Semmancheri
+1393,47.0,1060,Ready to move,2,2.0,Semmancheri
+1394,46.0,1200,Ready to move,1,2.0,Semmancheri
+1395,77.35,1645,Ready to move,3,2.0,Semmancheri
+1396,500.0,3000,Ready to move,4,4.0,Shenoy Nagar
+1397,100.0,1833,Ready to move,3,2.0,Sholinganallur
+1398,73.75,1405,Under Construction,3,2.0,Sholinganallur
+1399,62.75,1004,Under Construction,2,2.0,Sholinganallur
+1400,108.0,1972,Ready to move,3,2.0,Sholinganallur
+1401,73.99,1410,Under Construction,3,2.0,Sholinganallur
+1402,62.75,1004,Under Construction,2,2.0,Sholinganallur
+1403,79.98,1740,Under Construction,3,2.0,Sholinganallur
+1404,79.98,1740,Under Construction,3,2.0,Sholinganallur
+1405,94.48,2055,Under Construction,4,2.0,Sholinganallur
+1406,94.48,2055,Under Construction,4,2.0,Sholinganallur
+1407,68.69,1494,Under Construction,3,2.0,Sholinganallur
+1408,68.69,1494,Under Construction,3,2.0,Sholinganallur
+1409,48.64,885,Under Construction,2,2.0,Sholinganallur
+1410,74.23,1415,Under Construction,3,2.0,Sholinganallur
+1411,48.88,890,Under Construction,2,2.0,Sholinganallur
+1412,47.43,860,Under Construction,2,2.0,Sholinganallur
+1413,46.95,850,Under Construction,2,2.0,Sholinganallur
+1414,47.67,865,Under Construction,2,2.0,Sholinganallur
+1415,73.51,1400,Under Construction,3,2.0,Sholinganallur
+1416,138.0,2525,Ready to move,4,2.0,Sholinganallur
+1417,75.07,1365,Ready to move,2,2.0,Sholinganallur
+1418,68.86,1252,Ready to move,2,2.0,Sholinganallur
+1419,101.0,1847,Ready to move,3,2.0,Sholinganallur
+1420,74.58,1356,Ready to move,2,2.0,Sholinganallur
+1421,132.0,2418,Ready to move,3,2.0,Sholinganallur
+1422,64.4,1171,Ready to move,2,2.0,Sholinganallur
+1423,109.0,1998,Ready to move,3,2.0,Sholinganallur
+1424,77.11,1402,Ready to move,2,2.0,Sholinganallur
+1425,80.19,1458,Ready to move,2,2.0,Sholinganallur
+1426,70.67,1285,Ready to move,2,2.0,Sholinganallur
+1427,141.0,2580,Ready to move,4,2.0,Sholinganallur
+1428,90.91,1653,Ready to move,3,2.0,Sholinganallur
+1429,129.0,2357,Ready to move,3,2.0,Sholinganallur
+1430,91.3,1660,Ready to move,3,2.0,Sholinganallur
+1431,80.79,1469,Ready to move,2,2.0,Sholinganallur
+1432,69.52,1264,Ready to move,2,2.0,Sholinganallur
+1433,65.89,1198,Ready to move,2,2.0,Sholinganallur
+1434,63.18,1011,Under Construction,2,2.0,Sholinganallur
+1435,63.18,1011,Under Construction,2,2.0,Sholinganallur
+1436,54.81,877,Under Construction,2,2.0,Sholinganallur
+1437,54.81,877,Under Construction,2,2.0,Sholinganallur
+1438,62.75,1004,Under Construction,2,2.0,Sholinganallur
+1439,63.18,1011,Under Construction,2,2.0,Sholinganallur
+1440,62.75,1004,Under Construction,2,2.0,Sholinganallur
+1441,54.81,877,Under Construction,2,2.0,Sholinganallur
+1442,63.18,1011,Under Construction,2,2.0,Sholinganallur
+1443,57.87,926,Under Construction,2,2.0,Sholinganallur
+1444,54.81,877,Under Construction,2,2.0,Sholinganallur
+1445,57.87,926,Under Construction,2,2.0,Sholinganallur
+1446,63.1,1242,Under Construction,2,2.0,Sholinganallur
+1447,63.1,1242,Under Construction,2,2.0,Sholinganallur
+1448,33.71,604,Under Construction,1,2.0,Sholinganallur
+1449,33.66,603,Under Construction,1,2.0,Sholinganallur
+1450,63.51,1250,Under Construction,2,2.0,Sholinganallur
+1451,63.3,1246,Under Construction,2,2.0,Sholinganallur
+1452,33.77,605,Under Construction,1,1.0,Sholinganallur
+1453,33.44,599,Under Construction,1,1.0,Sholinganallur
+1454,33.6,602,Under Construction,1,1.0,Sholinganallur
+1455,88.75,1761,Under Construction,3,2.0,Sholinganallur
+1456,62.85,1237,Under Construction,2,2.0,Sholinganallur
+1457,94.19,1869,Under Construction,3,2.0,Sholinganallur
+1458,77.54,1468,Under Construction,2,2.0,Sholinganallur
+1459,70.2,1329,Under Construction,2,2.0,Sholinganallur
+1460,87.79,1742,Under Construction,3,2.0,Sholinganallur
+1461,68.64,1351,Under Construction,2,2.0,Sholinganallur
+1462,88.04,1747,Under Construction,3,2.0,Sholinganallur
+1463,93.49,1855,Under Construction,3,2.0,Sholinganallur
+1464,80.23,1592,Under Construction,3,3.0,Sholinganallur
+1465,92.43,1834,Under Construction,3,2.0,Sholinganallur
+1466,86.08,1708,Under Construction,3,2.0,Sholinganallur
+1467,79.38,1575,Under Construction,3,2.0,Sholinganallur
+1468,91.87,1823,Under Construction,3,2.0,Sholinganallur
+1469,85.12,1689,Under Construction,3,2.0,Sholinganallur
+1470,90.77,1801,Under Construction,3,2.0,Sholinganallur
+1471,65.28,1285,Under Construction,2,2.0,Sholinganallur
+1472,63.96,1259,Under Construction,2,2.0,Sholinganallur
+1473,64.52,1270,Under Construction,2,2.0,Sholinganallur
+1474,64.47,1269,Under Construction,2,2.0,Sholinganallur
+1475,90.31,1792,Under Construction,3,2.0,Sholinganallur
+1476,83.66,1660,Under Construction,3,2.0,Sholinganallur
+1477,56.0,1258,Ready to move,2,2.0,Sholinganallur
+1478,109.0,1708,Under Construction,3,3.0,Sholinganallur
+1479,49.0,919,Ready to move,2,2.0,Sholinganallur
+1480,80.0,1237,Under Construction,2,2.0,Sholinganallur
+1481,97.0,1598,Under Construction,3,2.0,Sholinganallur
+1482,88.92,1588,Under Construction,3,2.0,Sholinganallur
+1483,45.0,840,Ready to move,2,2.0,Singaperumal Koil
+1484,45.86,1079,Under Construction,2,2.0,Singaperumal Koil
+1485,45.86,1079,Under Construction,2,2.0,Singaperumal Koil
+1486,64.25,1737,Ready to move,3,2.0,Siruseri
+1487,60.66,1640,Ready to move,3,2.0,Siruseri
+1488,57.22,1547,Ready to move,3,2.0,Siruseri
+1489,58.59,1584,Ready to move,3,2.0,Siruseri
+1490,55.0,1487,Ready to move,3,2.0,Siruseri
+1491,58.85,1591,Ready to move,3,2.0,Siruseri
+1492,27.0,600,Under Construction,2,4.0,Siruseri
+1493,39.88,1040,Under Construction,3,2.0,Siruseri
+1494,62.0,1295,Ready to move,2,2.0,Siruseri
+1495,74.47,1655,Ready to move,3,3.0,Siruseri
+1496,40.0,930,Under Construction,2,2.0,Siruseri
+1497,23.03,510,Under Construction,1,2.0,Siruseri
+1498,35.02,824,Under Construction,2,2.0,Siruseri
+1499,15.04,338,Under Construction,1,2.0,Siruseri
+1500,32.98,764,Under Construction,2,2.0,Siruseri
+1501,66.82,1310,Under Construction,3,2.0,Sithalapakkam
+1502,64.08,1250,Under Construction,3,2.0,Sithalapakkam
+1503,54.14,1050,Under Construction,2,2.0,Sithalapakkam
+1504,69.33,1365,Under Construction,3,2.0,Sithalapakkam
+1505,39.49,800,Under Construction,2,2.0,Sithalapakkam
+1506,53.45,1035,Under Construction,2,2.0,Sithalapakkam
+1507,29.72,625,Under Construction,1,2.0,Sithalapakkam
+1508,71.39,1410,Under Construction,3,2.0,Sithalapakkam
+1509,31.28,660,Under Construction,1,2.0,Sithalapakkam
+1510,55.74,1085,Under Construction,2,2.0,Sithalapakkam
+1511,65.45,1280,Under Construction,2,2.0,Sithalapakkam
+1512,29.27,615,Under Construction,1,2.0,Sithalapakkam
+1513,54.59,1060,Under Construction,2,2.0,Sithalapakkam
+1514,52.54,1015,Under Construction,2,2.0,Sithalapakkam
+1515,30.61,645,Under Construction,1,2.0,Sithalapakkam
+1516,54.82,1065,Under Construction,2,2.0,Sithalapakkam
+1517,455.0,2601,Under Construction,4,2.0,T Nagar
+1518,644.0,3681,Under Construction,4,4.0,T Nagar
+1519,295.0,1520,Under Construction,3,2.0,T Nagar
+1520,325.0,1950,Ready to move,4,3.0,T Nagar
+1521,550.0,4000,Ready to move,4,3.0,T Nagar
+1522,362.0,2133,Under Construction,2,2.0,T Nagar
+1523,393.0,2133,Under Construction,3,3.0,T Nagar
+1524,240.0,1484,Ready to move,3,3.0,T Nagar
+1525,245.0,1401,Ready to move,3,3.0,T Nagar
+1526,442.0,2601,Under Construction,3,3.0,T Nagar
+1527,442.0,2601,Under Construction,3,3.0,T Nagar
+1528,244.0,1574,Ready to move,3,2.0,T Nagar
+1529,340.0,2030,Under Construction,4,3.0,T Nagar
+1530,219.0,1310,Under Construction,3,3.0,T Nagar
+1531,42.07,1275,Under Construction,3,2.0,Thaiyur
+1532,33.29,1009,Under Construction,2,2.0,Thaiyur
+1533,39.5,1197,Under Construction,3,2.0,Thaiyur
+1534,33.42,1013,Under Construction,2,2.0,Thaiyur
+1535,25.0,605,Ready to move,1,1.0,Thaiyur
+1536,57.4,1552,Under Construction,2,2.0,Thaiyur
+1537,64.6,1700,Under Construction,3,3.0,Thaiyur
+1538,57.4,1552,Under Construction,2,2.0,Thaiyur
+1539,64.6,1700,Under Construction,3,3.0,Thaiyur
+1540,39.88,1050,Ready to move,2,2.0,Thaiyur
+1541,38.02,1001,Under Construction,2,2.0,Thaiyur
+1542,47.33,1246,Under Construction,3,2.0,Thaiyur
+1543,40.3,1061,Under Construction,2,2.0,Thaiyur
+1544,50.45,1328,Under Construction,3,2.0,Thaiyur
+1545,37.3,982,Under Construction,2,2.0,Thaiyur
+1546,50.71,1335,Under Construction,3,2.0,Thaiyur
+1547,50.22,1005,Ready to move,2,2.0,Thalambur
+1548,64.82,1297,Ready to move,3,2.0,Thalambur
+1549,30.0,612,Under Construction,2,2.0,Thalambur
+1550,22.36,713,Under Construction,2,2.0,Thandalam
+1551,20.88,663,Under Construction,2,2.0,Thandalam
+1552,12.83,391,Under Construction,1,2.0,Thandalam
+1553,21.0,667,Under Construction,2,2.0,Thandalam
+1554,20.97,666,Under Construction,2,2.0,Thandalam
+1555,20.77,659,Under Construction,2,2.0,Thandalam
+1556,12.89,394,Under Construction,1,2.0,Thandalam
+1557,22.19,707,Under Construction,2,2.0,Thandalam
+1558,21.21,674,Under Construction,2,2.0,Thandalam
+1559,57.0,1075,Ready to move,2,2.0,Tharapakkam
+1560,23.0,620,Under Construction,1,1.0,Thirumalpur
+1561,18.0,353,Under Construction,1,2.0,Thirumazhisai
+1562,31.0,730,Under Construction,2,2.0,Thirumazhisai
+1563,36.0,849,Under Construction,2,2.0,Thirumazhisai
+1564,16.0,319,Under Construction,1,1.0,Thirumazhisai
+1565,15.36,300,Under Construction,1,1.0,Thirumazhisai
+1566,25.0,640,Ready to move,1,2.0,Thirumazhisai
+1567,28.0,730,Under Construction,2,2.0,Thirumazhisai
+1568,32.0,849,Under Construction,2,2.0,Thirumazhisai
+1569,29.56,768,Under Construction,2,2.0,Thirumullaivoyal
+1570,35.65,926,Under Construction,3,2.0,Thirumullaivoyal
+1571,39.73,1032,Under Construction,3,2.0,Thirumullaivoyal
+1572,33.3,865,Under Construction,2,2.0,Thirumullaivoyal
+1573,36.53,949,Under Construction,2,2.0,Thirumullaivoyal
+1574,33.88,880,Under Construction,2,2.0,Thirumullaivoyal
+1575,29.55,788,Under Construction,2,2.0,Thirumullaivoyal
+1576,33.11,883,Under Construction,2,2.0,Thirumullaivoyal
+1577,33.11,883,Under Construction,2,2.0,Thirumullaivoyal
+1578,29.66,791,Under Construction,2,2.0,Thirumullaivoyal
+1579,29.66,791,Under Construction,2,2.0,Thirumullaivoyal
+1580,29.21,779,Under Construction,2,2.0,Thirumullaivoyal
+1581,29.21,779,Under Construction,2,2.0,Thirumullaivoyal
+1582,34.53,921,Under Construction,2,2.0,Thirumullaivoyal
+1583,34.53,921,Under Construction,2,2.0,Thirumullaivoyal
+1584,31.72,846,Under Construction,2,2.0,Thirumullaivoyal
+1585,31.72,846,Under Construction,2,2.0,Thirumullaivoyal
+1586,30.15,804,Under Construction,2,2.0,Thirumullaivoyal
+1587,30.15,804,Under Construction,2,2.0,Thirumullaivoyal
+1588,30.15,804,Under Construction,2,2.0,Thirumullaivoyal
+1589,30.03,801,Under Construction,2,2.0,Thirumullaivoyal
+1590,30.15,804,Under Construction,2,2.0,Thirumullaivoyal
+1591,30.03,801,Under Construction,2,2.0,Thirumullaivoyal
+1592,30.3,808,Under Construction,2,2.0,Thirumullaivoyal
+1593,30.3,808,Under Construction,2,2.0,Thirumullaivoyal
+1594,34.68,925,Under Construction,2,2.0,Thirumullaivoyal
+1595,34.68,925,Under Construction,2,2.0,Thirumullaivoyal
+1596,31.46,839,Under Construction,2,2.0,Thirumullaivoyal
+1597,28.98,773,Under Construction,2,2.0,Thirumullaivoyal
+1598,31.46,839,Under Construction,2,2.0,Thirumullaivoyal
+1599,28.98,773,Under Construction,2,2.0,Thirumullaivoyal
+1600,30.97,826,Under Construction,2,2.0,Thirumullaivoyal
+1601,30.97,826,Under Construction,2,2.0,Thirumullaivoyal
+1602,31.16,831,Under Construction,2,2.0,Thirumullaivoyal
+1603,31.16,831,Under Construction,2,2.0,Thirumullaivoyal
+1604,29.55,788,Under Construction,2,2.0,Thirumullaivoyal
+1605,35.0,900,Ready to move,2,2.0,Thirumullaivoyal
+1606,20.0,600,Ready to move,2,2.0,Thiruporur
+1607,140.0,1270,Ready to move,3,2.0,Thiruvanmiyur
+1608,110.0,974,Ready to move,2,2.0,Thiruvanmiyur
+1609,171.0,1495,Ready to move,3,3.0,Thiruvanmiyur
+1610,115.0,1008,Ready to move,2,2.0,Thiruvanmiyur
+1611,65.0,1273,Under Construction,3,3.0,Thiruverkadu
+1612,49.5,947,Ready to move,2,2.0,Thiruverkadu
+1613,48.61,884,Ready to move,2,2.0,Thoraipakkam OMR
+1614,72.2,1313,Ready to move,2,2.0,Thoraipakkam OMR
+1615,49.05,892,Ready to move,2,2.0,Thoraipakkam OMR
+1616,64.77,1178,Ready to move,2,2.0,Thoraipakkam OMR
+1617,72.0,1400,Ready to move,3,2.0,Thoraipakkam OMR
+1618,65.69,1381,Ready to move,3,2.0,Tiruvottiyur
+1619,65.64,1380,Ready to move,3,2.0,Tiruvottiyur
+1620,53.47,1117,Ready to move,2,2.0,Tiruvottiyur
+1621,23.22,540,Ready to move,1,2.0,Tiruvottiyur
+1622,46.99,1093,Ready to move,2,2.0,Tiruvottiyur
+1623,25.19,586,Ready to move,1,2.0,Tiruvottiyur
+1624,45.75,1064,Ready to move,2,2.0,Tiruvottiyur
+1625,25.06,583,Ready to move,1,2.0,Tiruvottiyur
+1626,25.02,582,Ready to move,1,2.0,Tiruvottiyur
+1627,45.53,1059,Ready to move,2,2.0,Tiruvottiyur
+1628,68.38,1439,Ready to move,3,2.0,Tiruvottiyur
+1629,68.47,1441,Ready to move,3,2.0,Tiruvottiyur
+1630,44.72,1040,Ready to move,2,2.0,Tiruvottiyur
+1631,68.75,1447,Ready to move,3,2.0,Tiruvottiyur
+1632,67.63,1423,Ready to move,3,2.0,Tiruvottiyur
+1633,67.77,1426,Ready to move,3,2.0,Tiruvottiyur
+1634,66.81,1405,Ready to move,3,2.0,Tiruvottiyur
+1635,54.72,1144,Ready to move,2,2.0,Tiruvottiyur
+1636,54.63,1142,Ready to move,2,2.0,Tiruvottiyur
+1637,55.19,1154,Ready to move,2,2.0,Tiruvottiyur
+1638,43.94,1022,Ready to move,2,2.0,Tiruvottiyur
+1639,66.1,1390,Ready to move,3,2.0,Tiruvottiyur
+1640,54.09,1130,Ready to move,2,2.0,Tiruvottiyur
+1641,23.65,550,Ready to move,1,2.0,Tiruvottiyur
+1642,66.3,1394,Ready to move,3,2.0,Tiruvottiyur
+1643,23.47,546,Ready to move,1,2.0,Tiruvottiyur
+1644,66.35,1395,Ready to move,3,2.0,Tiruvottiyur
+1645,23.26,541,Ready to move,1,2.0,Tiruvottiyur
+1646,23.39,544,Ready to move,1,2.0,Tiruvottiyur
+1647,36.0,827,Ready to move,2,2.0,Urapakkam
+1648,42.0,1330,Ready to move,4,2.0,Urapakkam
+1649,42.0,1100,Ready to move,2,2.0,Urapakkam
+1650,53.97,1285,Ready to move,2,2.0,Urapakkam
+1651,41.58,990,Ready to move,1,2.0,Urapakkam
+1652,53.97,1285,Ready to move,2,2.0,Urapakkam
+1653,48.0,1200,Ready to move,3,3.0,Urapakkam
+1654,37.72,943,Ready to move,2,2.0,Urapakkam
+1655,35.24,881,Ready to move,2,2.0,Urapakkam
+1656,70.0,1027,Ready to move,2,2.0,Vadanemmeli
+1657,70.0,1027,Ready to move,2,2.0,Vadanemmeli
+1658,70.0,1027,Ready to move,2,2.0,Vadanemmeli
+1659,70.0,1027,Ready to move,2,2.0,Vadanemmeli
+1660,70.0,1027,Ready to move,2,2.0,Vadanemmeli
+1661,70.0,1027,Ready to move,2,2.0,Vadanemmeli
+1662,70.0,1027,Ready to move,2,2.0,Vadanemmeli
+1663,70.0,1027,Ready to move,2,2.0,Vadanemmeli
+1664,70.0,1027,Ready to move,2,2.0,Vadanemmeli
+1665,70.0,1027,Ready to move,2,2.0,Vadanemmeli
+1666,70.0,1027,Ready to move,2,2.0,Vadanemmeli
+1667,70.0,1027,Ready to move,2,2.0,Vadanemmeli
+1668,70.0,1027,Ready to move,2,2.0,Vadanemmeli
+1669,70.0,1027,Ready to move,2,2.0,Vadanemmeli
+1670,70.0,1027,Ready to move,2,2.0,Vadanemmeli
+1671,70.0,1027,Ready to move,2,2.0,Vadanemmeli
+1672,70.0,1027,Ready to move,2,2.0,Vadanemmeli
+1673,70.0,1027,Ready to move,2,2.0,Vadanemmeli
+1674,70.0,1027,Ready to move,2,2.0,Vadanemmeli
+1675,70.0,1027,Ready to move,2,2.0,Vadanemmeli
+1676,70.0,1027,Ready to move,2,2.0,Vadanemmeli
+1677,70.0,1027,Ready to move,2,2.0,Vadanemmeli
+1678,70.0,1027,Ready to move,2,2.0,Vadanemmeli
+1679,70.0,1027,Ready to move,2,2.0,Vadanemmeli
+1680,70.0,1027,Ready to move,2,2.0,Vadanemmeli
+1681,70.0,1027,Ready to move,2,2.0,Vadanemmeli
+1682,182.0,1636,Under Construction,3,2.0,Vadapalani
+1683,132.0,1176,Under Construction,2,2.0,Vadapalani
+1684,131.0,1174,Under Construction,2,2.0,Vadapalani
+1685,204.0,1838,Under Construction,3,2.0,Vadapalani
+1686,132.0,1180,Under Construction,2,2.0,Vadapalani
+1687,255.0,2307,Under Construction,4,2.0,Vadapalani
+1688,201.0,1816,Under Construction,3,2.0,Vadapalani
+1689,254.0,2301,Under Construction,4,2.0,Vadapalani
+1690,181.0,1624,Under Construction,3,2.0,Vadapalani
+1691,137.0,1225,Under Construction,2,2.0,Vadapalani
+1692,130.0,1159,Under Construction,2,2.0,Vadapalani
+1693,253.0,2285,Under Construction,4,2.0,Vadapalani
+1694,203.0,1831,Under Construction,3,2.0,Vadapalani
+1695,138.0,1232,Under Construction,2,2.0,Vadapalani
+1696,252.0,2280,Under Construction,4,2.0,Vadapalani
+1697,178.0,1604,Under Construction,3,2.0,Vadapalani
+1698,136.0,1211,Under Construction,2,2.0,Vadapalani
+1699,201.0,1811,Under Construction,3,2.0,Vadapalani
+1700,129.0,1154,Under Construction,2,2.0,Vadapalani
+1701,180.0,1617,Under Construction,3,2.0,Vadapalani
+1702,180.0,1615,Under Construction,3,2.0,Vadapalani
+1703,135.0,1204,Under Construction,2,2.0,Vadapalani
+1704,178.0,1597,Under Construction,3,2.0,Vadapalani
+1705,170.0,1750,Ready to move,4,3.0,Valasaravakkam
+1706,95.0,1250,Ready to move,3,3.0,Valasaravakkam
+1707,45.99,920,Under Construction,2,2.0,Vanagaram
+1708,45.99,920,Under Construction,2,2.0,Vanagaram
+1709,47.84,957,Under Construction,2,2.0,Vanagaram
+1710,47.84,957,Under Construction,2,2.0,Vanagaram
+1711,45.99,920,Under Construction,2,2.0,Vanagaram
+1712,45.99,920,Under Construction,2,2.0,Vanagaram
+1713,47.84,957,Under Construction,2,2.0,Vanagaram
+1714,47.84,957,Under Construction,2,2.0,Vanagaram
+1715,45.59,912,Under Construction,2,2.0,Vanagaram
+1716,45.59,912,Under Construction,2,2.0,Vanagaram
+1717,48.79,976,Under Construction,2,2.0,Vanagaram
+1718,48.79,976,Under Construction,2,2.0,Vanagaram
+1719,46.24,925,Under Construction,2,2.0,Vanagaram
+1720,46.24,925,Under Construction,2,2.0,Vanagaram
+1721,33.85,594,Under Construction,1,2.0,Vanagaram
+1722,33.51,588,Under Construction,1,1.0,Vanagaram
+1723,34.02,597,Under Construction,1,2.0,Vanagaram
+1724,57.79,1051,Under Construction,2,2.0,Vanagaram
+1725,34.0,600,Under Construction,2,2.0,Vanagaram
+1726,57.74,1013,Under Construction,2,2.0,Vanagaram
+1727,54.64,1051,Under Construction,2,2.0,Vanagaram
+1728,79.8,1400,Under Construction,3,3.0,Vanagaram
+1729,77.51,1491,Under Construction,3,3.0,Vanagaram
+1730,54.64,1051,Under Construction,2,2.0,Vanagaram
+1731,70.65,1359,Under Construction,3,2.0,Vanagaram
+1732,85.45,1554,Under Construction,3,3.0,Vanagaram
+1733,81.3,937,Under Construction,2,2.0,Velachery
+1734,81.7,942,Under Construction,2,2.0,Velachery
+1735,200.0,1844,Ready to move,3,3.0,Velachery
+1736,76.0,1028,Ready to move,2,2.0,Velachery
+1737,107.0,1306,Ready to move,2,2.0,Velachery
+1738,55.83,859,Ready to move,2,2.0,Velachery
+1739,55.83,859,Ready to move,2,2.0,Velachery
+1740,100.0,1188,Ready to move,3,2.0,Velachery
+1741,84.66,996,Ready to move,2,2.0,Velachery
+1742,86.0,1010,Ready to move,2,2.0,Velachery
+1743,70.0,1112,Ready to move,2,2.0,Velappanchavadi
+1744,89.0,1414,Ready to move,3,3.0,Velappanchavadi
+1745,87.4,1469,Ready to move,3,2.0,Vengaivasal
+1746,81.57,1371,Ready to move,3,2.0,Vengaivasal
+1747,88.29,1484,Ready to move,3,2.0,Vengaivasal
+1748,35.75,601,Ready to move,2,2.0,Vengaivasal
+1749,100.0,2100,Ready to move,3,3.0,Vengambakkam
+1750,95.0,2000,Ready to move,3,3.0,Vengambakkam
+1751,90.0,1900,Ready to move,3,3.0,Vengambakkam
+1752,85.0,1800,Ready to move,3,3.0,Vengambakkam
+1753,80.0,1700,Ready to move,3,3.0,Vengambakkam
+1754,75.0,1655,Ready to move,3,3.0,Vengambakkam
+1755,19.59,540,Ready to move,1,2.0,Veppampattu
+1756,26.0,850,Ready to move,2,2.0,Veppampattu
+1757,30.0,960,Ready to move,2,2.0,Veppampattu
+1758,30.0,950,Under Construction,2,2.0,Veppampattu
+1759,18.49,520,Ready to move,1,2.0,Veppampattu
+1760,36.0,900,Under Construction,2,3.0,Veppampattu
+1761,26.0,720,Ready to move,2,2.0,Veppampattu
+1762,26.0,720,Ready to move,2,2.0,Veppampattu
+1763,26.0,720,Ready to move,2,2.0,Veppampattu
+1764,32.0,1000,Ready to move,2,2.0,Veppampattu
+1765,28.0,800,Under Construction,2,2.0,Veppampattu
+1766,22.0,601,Under Construction,1,2.0,Veppampattu
+1767,36.0,902,Ready to move,2,2.0,Veppampattu
+1768,40.0,1000,Ready to move,2,2.0,Veppampattu
+1769,36.0,900,Ready to move,2,2.0,Veppampattu
+1770,34.0,1151,Ready to move,2,2.0,Veppampattu
+1771,28.0,801,Under Construction,2,2.0,Veppampattu
+1772,30.0,820,Ready to move,2,2.0,Veppampattu
+1773,21.9,600,Under Construction,1,2.0,Veppampattu
+1774,22.0,600,Under Construction,1,2.0,Veppampattu
+1775,16.0,500,Ready to move,1,1.0,Veppampattu
+1776,45.0,1200,Under Construction,3,2.0,Veppampattu
+1777,34.0,1150,Under Construction,2,2.0,Veppampattu
+1778,37.0,1136,Under Construction,2,2.0,Veppampattu
+1779,27.0,750,Ready to move,2,2.0,Veppampattu
+1780,26.0,720,Ready to move,2,2.0,Veppampattu
+1781,30.0,820,Ready to move,2,2.0,Veppampattu
+1782,22.95,600,Ready to move,1,2.0,Veppampattu
+1783,17.9,601,Ready to move,1,2.0,Veppampattu
+1784,24.0,600,Ready to move,2,2.0,Veppampattu
+1785,18.25,600,Ready to move,1,2.0,Veppampattu
+1786,25.9,700,Ready to move,2,2.0,Veppampattu
+1787,22.8,600,Ready to move,1,2.0,Veppampattu
+1788,26.9,704,Ready to move,2,2.0,Veppampattu
+1789,37.0,1300,Ready to move,2,2.0,Veppampattu
+1790,35.0,1180,Ready to move,2,2.0,Veppampattu
+1791,25.99,703,Ready to move,2,2.0,Veppampattu
+1792,19.49,520,Ready to move,1,2.0,Veppampattu
+1793,34.5,1170,Ready to move,2,2.0,Veppampattu
+1794,36.0,1300,Ready to move,2,2.0,Veppampattu
+1795,32.5,990,Ready to move,2,2.0,Veppampattu
+1796,26.5,680,Ready to move,2,2.0,Veppampattu
+1797,29.5,850,Ready to move,2,2.0,Veppampattu
+1798,22.5,600,Ready to move,1,2.0,Veppampattu
+1799,22.5,630,Ready to move,2,2.0,Veppampattu
+1800,16.5,550,Ready to move,1,2.0,Veppampattu
+1801,22.75,600,Ready to move,1,2.0,Veppampattu
+1802,22.85,600,Ready to move,2,2.0,Veppampattu
+1803,17.84,600,Ready to move,1,1.0,Veppampattu
+1804,37.0,1300,Ready to move,2,2.0,Veppampattu
+1805,28.0,800,Ready to move,2,2.0,Veppampattu
+1806,27.0,720,Ready to move,2,2.0,Veppampattu
+1807,28.0,800,Ready to move,2,2.0,Veppampattu
+1808,34.99,1175,Ready to move,2,2.0,Veppampattu
+1809,21.99,600,Ready to move,1,2.0,Veppampattu
+1810,22.0,600,Ready to move,1,2.0,Veppampattu
+1811,29.0,800,Ready to move,2,2.0,Veppampattu
+1812,32.0,1000,Ready to move,2,2.0,Veppampattu
+1813,23.0,594,Ready to move,1,2.0,Veppampattu
+1814,34.99,1201,Ready to move,2,2.0,Veppampattu
+1815,28.99,751,Ready to move,2,2.0,Veppampattu
+1816,26.99,701,Ready to move,2,2.0,Veppampattu
+1817,29.99,847,Ready to move,2,2.0,Veppampattu
+1818,22.99,609,Ready to move,2,2.0,Veppampattu
+1819,30.0,850,Ready to move,2,2.0,Veppampattu
+1820,26.9,700,Ready to move,2,2.0,Veppampattu
+1821,27.0,700,Ready to move,2,2.0,Veppampattu
+1822,25.8,700,Ready to move,2,2.0,Veppampattu
+1823,26.0,700,Ready to move,2,2.0,Veppampattu
+1824,23.0,600,Ready to move,2,2.0,Veppampattu
+1825,22.0,600,Ready to move,1,2.0,Veppampattu
+1826,28.0,850,Ready to move,2,2.0,Veppampattu
+1827,26.0,700,Ready to move,2,2.0,Veppampattu
+1828,27.0,725,Ready to move,2,2.0,Veppampattu
+1829,25.85,650,Ready to move,2,2.0,Veppampattu
+1830,25.9,650,Ready to move,2,2.0,Veppampattu
+1831,26.5,700,Ready to move,2,2.0,Veppampattu
+1832,26.0,650,Ready to move,2,2.0,Veppampattu
+1833,18.0,599,Ready to move,1,2.0,Veppampattu
+1834,25.0,749,Ready to move,2,2.0,Veppampattu
+1835,25.0,755,Ready to move,2,2.0,Veppampattu
+1836,28.9,920,Ready to move,2,2.0,Veppampattu
+1837,31.25,950,Ready to move,2,2.0,Veppampattu
+1838,25.0,755,Ready to move,2,2.0,Veppampattu
+1839,28.9,920,Ready to move,2,2.0,Veppampattu
+1840,31.25,950,Ready to move,2,2.0,Veppampattu
+1841,22.25,603,Ready to move,1,2.0,Veppampattu
+1842,34.5,1050,Ready to move,2,2.0,Veppampattu
+1843,27.0,812,Ready to move,2,2.0,Veppampattu
+1844,18.99,611,Ready to move,1,2.0,Veppampattu
+1845,26.8,700,Ready to move,2,2.0,Veppampattu
+1846,22.8,600,Ready to move,2,2.0,Veppampattu
+1847,26.75,700,Ready to move,2,2.0,Veppampattu
+1848,19.38,510,Ready to move,1,2.0,Veppampattu
+1849,38.0,1000,Ready to move,2,2.0,Veppampattu
+1850,22.8,600,Ready to move,1,2.0,Veppampattu
+1851,20.9,550,Ready to move,1,2.0,Veppampattu
+1852,30.4,800,Ready to move,2,2.0,Veppampattu
+1853,24.7,650,Ready to move,2,2.0,Veppampattu
+1854,45.6,1200,Ready to move,2,2.0,Veppampattu
+1855,23.94,630,Ready to move,1,2.0,Veppampattu
+1856,27.5,800,Ready to move,2,2.0,Veppampattu
+1857,27.5,800,Ready to move,2,2.0,Veppampattu
+1858,29.5,800,Ready to move,2,2.0,Veppampattu
+1859,30.0,800,Ready to move,2,2.0,Veppampattu
+1860,27.5,750,Ready to move,2,2.0,Veppampattu
+1861,27.0,800,Ready to move,2,2.0,Veppampattu
+1862,27.5,750,Ready to move,2,2.0,Veppampattu
+1863,27.5,750,Ready to move,2,2.0,Veppampattu
+1864,30.0,800,Ready to move,2,2.0,Veppampattu
+1865,31.5,850,Ready to move,2,2.0,Veppampattu
+1866,34.0,900,Ready to move,2,2.0,Veppampattu
+1867,188.0,2221,Under Construction,3,3.0,Virugambakkam
+1868,188.0,2221,Under Construction,3,3.0,Virugambakkam
+1869,188.0,2221,Under Construction,3,3.0,Virugambakkam
+1870,188.0,2221,Under Construction,3,3.0,Virugambakkam
+1871,98.0,1253,Ready to move,3,2.0,Virugambakkam
+1872,83.0,997,Ready to move,2,2.0,Virugambakkam
+1873,100.0,1343,Ready to move,2,1.0,Virugambakkam
+1874,398.0,2650,Ready to move,5,5.0,West Mambalam
+1875,398.0,2650,Ready to move,5,5.0,West Mambalam
+1876,398.0,2650,Ready to move,5,5.0,West Mambalam
+1877,398.0,2650,Ready to move,5,5.0,West Mambalam
+1878,398.0,2650,Ready to move,5,5.0,West Mambalam
+1879,398.0,2650,Ready to move,5,5.0,West Mambalam
+1880,398.0,2650,Ready to move,5,5.0,West Mambalam
+1881,398.0,2650,Ready to move,5,5.0,West Mambalam
+1882,398.0,2650,Ready to move,5,5.0,West Mambalam
+1883,398.0,2650,Ready to move,5,5.0,West Mambalam
+1884,398.0,2650,Ready to move,5,5.0,West Mambalam
+1885,398.0,2650,Ready to move,5,5.0,West Mambalam
+1886,398.0,2650,Ready to move,5,5.0,West Mambalam
+1887,398.0,2650,Ready to move,5,5.0,West Mambalam
+1888,398.0,2650,Ready to move,5,5.0,West Mambalam
+1889,398.0,2650,Ready to move,5,5.0,West Mambalam
+1890,398.0,2650,Ready to move,5,5.0,West Mambalam
+1891,398.0,2650,Ready to move,5,5.0,West Mambalam
+1892,398.0,2650,Ready to move,5,5.0,West Mambalam
+1893,398.0,2650,Ready to move,5,5.0,West Mambalam
+1894,398.0,2650,Ready to move,5,5.0,West Mambalam
+1895,398.0,2650,Ready to move,5,5.0,West Mambalam
+1896,398.0,2650,Ready to move,5,5.0,West Mambalam
+1897,398.0,2650,Ready to move,5,5.0,West Mambalam
+1898,398.0,2650,Ready to move,5,5.0,West Mambalam
+1899,398.0,2650,Ready to move,5,5.0,West Mambalam
+1900,398.0,2650,Ready to move,5,5.0,West Mambalam
+1901,398.0,2650,Ready to move,5,5.0,West Mambalam
+1902,398.0,2650,Ready to move,5,5.0,West Mambalam
+1903,398.0,2650,Ready to move,5,5.0,West Mambalam
+1904,398.0,2650,Ready to move,5,5.0,West Mambalam
+1905,398.0,2650,Ready to move,5,5.0,West Mambalam
+1906,398.0,2650,Ready to move,5,5.0,West Mambalam
+1907,398.0,2650,Ready to move,5,5.0,West Mambalam
+1908,398.0,2650,Ready to move,5,5.0,West Mambalam
+1909,398.0,2650,Ready to move,5,5.0,West Mambalam
+1910,398.0,2650,Ready to move,5,5.0,West Mambalam
+1911,398.0,2650,Ready to move,5,5.0,West Mambalam
+1912,398.0,2650,Ready to move,5,5.0,West Mambalam
+1913,398.0,2650,Ready to move,5,5.0,West Mambalam
+1914,398.0,2650,Ready to move,5,5.0,West Mambalam
+1915,49.5,900,Under Construction,2,2.0,West Tambaram
+1916,64.9,1180,Under Construction,3,2.0,West Tambaram
+1917,56.1,1020,Under Construction,3,2.0,West Tambaram
+1918,51.15,930,Under Construction,2,2.0,West Tambaram
+1919,95.0,1800,Ready to move,3,3.0,tambaram west
+1920,90.0,1700,Ready to move,3,3.0,tambaram west
+1921,85.0,1621,Ready to move,3,3.0,tambaram west
+1922,66.08,1180,Ready to move,3,3.0,tambaram west
+1923,57.12,1020,Ready to move,2,2.0,tambaram west
+1924,52.08,930,Ready to move,2,2.0,tambaram west
+1925,50.4,900,Ready to move,2,2.0,tambaram west
